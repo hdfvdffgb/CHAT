@@ -1,7 +1,6 @@
 {
-  "<Bjr>": "<c'est comment princesse>",
-  "< >": "<*Salut ! Je suis un peu occupé(e) en ce moment. Je te répondrai dès que possible. Merci pour ta patience !*>",
-  "<e>": "<*Salut ! Je suis un peu occupé(e) en ce moment. Je te répondrai dès que possible. Merci pour ta patience !*>",
-  "<Bjr >": "<*Salut ! Je suis un peu occupé(e) en ce moment. Je te répondrai dès que possible. Merci pour ta patience !*>",
-  "<yo >": "<yes sa dit quoi alors>"
+  "Bjr": "c'est comment princesse",
+  "e": "*Salut ! Je suis un peu occupé(e) en ce moment. Je te répondrai dès que possible. Merci pour ta patience !*",
+  "Bjr ": "*Salut ! Je suis un peu occupé(e) en ce moment. Je te répondrai dès que possible. Merci pour ta patience !*",
+  "yo ": "yes sa dit quoi alors"
 }
