@@ -1,4 +1,5 @@
 {
   "<income msg>": "<Please wait a moment, I’ll reply quickly.>",
-  "<any>": "<Please wait a moment, I’ll reply quickly.>"
+  "<any>": "<Please wait a moment, I’ll reply quickly.>",
+  "<Hi,Hello,Hy>": "<.setreply What kind of help do you need from me?>"
 }
