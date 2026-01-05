@@ -13,5 +13,9 @@
   "Mmm": "*Hmm*",
   "Mm": "*Hm*",
   "Adoo": "*ඇයි*❔\n*මොකෝ කේස් එක* 🤔",
-  "Hmm": "*Mmm*"
+  "Hmm": "*Mmm*",
+  "Hmm,Hm": {
+    "REP": "*Hmm*",
+    "URL": null
+  }
 }
