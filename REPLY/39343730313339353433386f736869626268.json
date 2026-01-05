@@ -18,5 +18,9 @@
   "abc , def": {
     "REP": "Done",
     "URL": "https://files.catbox.moe/ssfru4.mp3"
+  },
+  "Sir": {
+    "REP": "Hey how can I help you ?",
+    "URL": null
   }
 }
