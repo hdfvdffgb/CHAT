@@ -1,4 +1,7 @@
 {
   "Hey": "Hy I'm Nick",
-  "Hy": "Hy I'm Nick"
+  "Hy": {
+    "REP": "Hy I'm Nick",
+    "URL": null
+  }
 }
