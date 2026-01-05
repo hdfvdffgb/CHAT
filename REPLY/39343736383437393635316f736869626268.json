@@ -18,5 +18,9 @@
   "Video , mp4": {
     "REP": "Auto reply with video ✅",
     "URL": "https://files.catbox.moe/20kpdf.mp4"
+  },
+  "Text , txt": {
+    "REP": "Auto reply text ✅",
+    "URL": null
   }
 }
