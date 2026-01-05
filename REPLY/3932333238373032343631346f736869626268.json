@@ -1,3 +1,7 @@
 {
-  "Hi": "Hey, I'm Erøxe"
+  "Hi": "Hey, I'm Erøxe",
+  "Hi, Hello, Hey": {
+    "REP": "Yes??",
+    "URL": null
+  }
 }
