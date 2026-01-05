@@ -10,7 +10,10 @@
   "Oo": "🔥",
   "Ooo": "🔥",
   "Ai": "*නිකමට කිව්වෙ* 🫩",
-  "Mmm": "*Hmm*",
+  "Mmm": {
+    "REP": "*Mm*",
+    "URL": null
+  },
   "Mm": {
     "REP": "*Mmm*",
     "URL": null
