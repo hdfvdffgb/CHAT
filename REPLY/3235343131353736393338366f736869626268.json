@@ -1,6 +1,9 @@
 {
   "hi": "hi too",
-  "ukoaje": "niko poa sana labda wewe",
+  "ukoaje": {
+    "REP": "niko poa sana labda wewe",
+    "URL": null
+  },
   "hey": "Hi I'm DR X",
   "Hello": {
     "REP": "hello too",
