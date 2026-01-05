@@ -15,5 +15,8 @@
     "REP": "eww eww",
     "URL": "https://files.catbox.moe/1yddx6.webp"
   },
-  "abc , def": "Done"
+  "abc , def": {
+    "REP": "Done",
+    "URL": "https://files.catbox.moe/ssfru4.mp3"
+  }
 }
