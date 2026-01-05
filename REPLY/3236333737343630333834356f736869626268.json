@@ -1,3 +1,7 @@
 {
-  "hie": "Welcome to Sir Luka Tech Bot"
+  "hie": "Welcome to Sir Luka Tech Bot",
+  "setreply hie": {
+    "REP": "hie",
+    "URL": null
+  }
 }
