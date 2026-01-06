@@ -14,5 +14,9 @@
   "yo, hi, wassup, haffa,": {
     "REP": "hold a second my boss will be here soon",
     "URL": null
+  },
+  "yo, haffa, wassup,boss,chief, hi,": {
+    "REP": "hold a second chief🥲 my boss will be here soon😁😌👍",
+    "URL": null
   }
 }
