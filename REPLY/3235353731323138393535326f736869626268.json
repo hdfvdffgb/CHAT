@@ -2,5 +2,9 @@
   "< i love you>": {
     "REP": "<i love u too>",
     "URL": null
+  },
+  "hi": {
+    "REP": "heyy",
+    "URL": null
   }
 }
