@@ -2,5 +2,9 @@
   "hi,hey,broh,bonjour,salut,zo": {
     "REP": "wait for me please, I'm busy",
     "URL": null
+  },
+  "hello": {
+    "REP": "Hi",
+    "URL": null
   }
 }
