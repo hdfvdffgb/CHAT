@@ -6,5 +6,9 @@
   "text ,": {
     "REP": "txt auto reply",
     "URL": null
+  },
+  "image , img": {
+    "REP": "auto reply with image",
+    "URL": "https://files.catbox.moe/lg9qij.jpg"
   }
 }
