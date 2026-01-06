@@ -6,5 +6,9 @@
   "hi": {
     "REP": "how are you",
     "URL": null
+  },
+  "text,txt": {
+    "REP": "auto reply text✅️",
+    "URL": null
   }
 }
