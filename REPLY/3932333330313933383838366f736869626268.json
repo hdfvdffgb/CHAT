@@ -2,5 +2,9 @@
   "Hi, Hello, Hlo, Hy": {
     "REP": "Gg, How can I help you",
     "URL": null
+  },
+  "Hi, Hello, Hey, Hy": {
+    "REP": "Hey, I am busy right now. I will reply when I am free",
+    "URL": null
   }
 }
