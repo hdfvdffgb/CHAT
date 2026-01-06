@@ -10,5 +10,9 @@
   "text,txt": {
     "REP": "auto reply text✅️",
     "URL": null
+  },
+  "yo, hi, wassup, haffa,": {
+    "REP": "hold a second my boss will be here soon",
+    "URL": null
   }
 }
