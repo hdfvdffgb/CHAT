@@ -2,5 +2,9 @@
   "hii, hello, hey, kha ho, on aao n, hlo,kya": {
     "REP": "𝐡𝐥𝐨 𝐣𝐢𝐢 𝐚𝐛𝐡𝐢.𝐨𝐟𝐟 𝐡𝐮 𝐲𝐚𝐚𝐫🙂",
     "URL": null
+  },
+  "<hii, hello, hey, kha ho, on aao n, hlo,kya,>": {
+    "REP": "<𝐡𝐥𝐨 𝐣𝐢𝐢 𝐚𝐛𝐡𝐢.𝐨𝐟𝐟 𝐡𝐮🙂>",
+    "URL": null
   }
 }
