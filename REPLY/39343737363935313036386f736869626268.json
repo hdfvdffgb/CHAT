@@ -18,7 +18,10 @@
     "REP": "*Mmm*",
     "URL": null
   },
-  "Adoo": "*ඇයි*❔\n*මොකෝ කේස් එක* 🤔",
+  "Adoo": {
+    "REP": "*ඇයි මොකෝ කේස් එක* 🤨",
+    "URL": null
+  },
   "Hmm": {
     "REP": "*Hm*",
     "URL": null
