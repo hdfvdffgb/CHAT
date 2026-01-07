@@ -2,5 +2,9 @@
   "setreply me": {
     "REP": "ඇයි",
     "URL": null
+  },
+  "setreply me,oi,bn,e": {
+    "REP": "ඇයි",
+    "URL": null
   }
 }
