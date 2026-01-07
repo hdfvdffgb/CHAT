@@ -18,5 +18,9 @@
   "Hi, Hello, Hey, Hy,hlo,Hlo,.": {
     "REP": "Hey, I am busy right now. I will reply when I am free",
     "URL": null
+  },
+  "Hi, Hello, Hey, Hy,hlo,hi,Hlo,.": {
+    "REP": "I am busy right now. I will reply when I am free",
+    "URL": null
   }
 }
