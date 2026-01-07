@@ -18,5 +18,9 @@
   "g": {
     "REP": "h",
     "URL": null
+  },
+  "hello, hi , salut , slt , bonjour, bonsoir,bjr,bsr": {
+    "REP": "wait for me please",
+    "URL": null
   }
 }
