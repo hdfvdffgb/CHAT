@@ -2,5 +2,9 @@
   "<Hello>": {
     "REP": "<Hi too oxygen is off am the bot🤖leave a message plz>",
     "URL": null
+  },
+  "<Hello>,<Hi>,<Yoh>": {
+    "REP": "<Hi too oxygen is off am the bot🤖leave a message plz>",
+    "URL": null
   }
 }
