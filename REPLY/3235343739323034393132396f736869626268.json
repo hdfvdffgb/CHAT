@@ -2,5 +2,9 @@
   "<hi ,hello,>": {
     "REP": "<miss you>",
     "URL": null
+  },
+  "<\"hi\">": {
+    "REP": "<yes>",
+    "URL": null
   }
 }
