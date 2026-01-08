@@ -2,5 +2,9 @@
   "<income msg>": {
     "REP": "<okay>",
     "URL": null
+  },
+  "<mm>": {
+    "REP": "<hey>",
+    "URL": null
   }
 }
