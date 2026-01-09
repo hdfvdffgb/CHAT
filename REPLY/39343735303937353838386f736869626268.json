@@ -6,5 +6,9 @@
   "sticker, stk": {
     "REP": "auto reply with sticker✅",
     "URL": null
+  },
+  "video, mp4": {
+    "REP": "auto reply with video✅",
+    "URL": null
   }
 }
