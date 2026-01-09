@@ -2,5 +2,9 @@
   "text, txt": {
     "REP": "auto reply text ✅",
     "URL": null
+  },
+  "sticker, stk": {
+    "REP": "auto reply with sticker✅",
+    "URL": null
   }
 }
