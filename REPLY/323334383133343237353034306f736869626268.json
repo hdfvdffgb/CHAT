@@ -6,5 +6,9 @@
   "Setreply Hi": {
     "REP": "I know who you are",
     "URL": null
+  },
+  "Hmmm": {
+    "REP": "if u say hmm again,i will block u",
+    "URL": null
   }
 }
