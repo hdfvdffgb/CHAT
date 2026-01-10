@@ -2,5 +2,9 @@
   "\"hi,hy,hello😁": {
     "REP": "Hi how can I help you\"",
     "URL": null
+  },
+  "\"Hi": {
+    "REP": "Hi How can I Help you\"",
+    "URL": null
   }
 }
