@@ -2,5 +2,9 @@
   "Text , txt": {
     "REP": "Auto reply text",
     "URL": null
+  },
+  "Setreply <income msg>": {
+    "REP": "<reply",
+    "URL": null
   }
 }
