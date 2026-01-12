@@ -6,5 +6,9 @@
   "Image, img": {
     "REP": "Auto Reply with image ✅",
     "URL": "https://files.catbox.moe/fgi314.jpg"
+  },
+  "Video, mp4": {
+    "REP": "Auto Reply with video ✅",
+    "URL": null
   }
 }
