@@ -14,5 +14,9 @@
   "Hello, hello": {
     "REP": "hello too",
     "URL": null
+  },
+  "Hi, hi, hi sasa": {
+    "REP": "hi too",
+    "URL": null
   }
 }
