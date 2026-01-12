@@ -2,5 +2,9 @@
   ".hibot": {
     "REP": "Hey, How can I help you..?",
     "URL": null
+  },
+  "hi, hello,hey": {
+    "REP": "hey, how can I help you",
+    "URL": null
   }
 }
