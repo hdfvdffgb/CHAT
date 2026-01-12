@@ -2,5 +2,9 @@
   "text , txt": {
     "REP": "Auto reply text✅",
     "URL": null
+  },
+  "Video ,": {
+    "REP": "Auto reply with video✅",
+    "URL": "https://files.catbox.moe/on8e2m.mp4"
   }
 }
