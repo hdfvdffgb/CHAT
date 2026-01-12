@@ -6,5 +6,9 @@
   "<\"hi\">": {
     "REP": "<yes>",
     "URL": null
+  },
+  "Hi,Hello,Hey, Hy": {
+    "REP": "Hey,How can I help you....",
+    "URL": null
   }
 }
