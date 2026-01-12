@@ -10,5 +10,9 @@
   "hi,hy,mk,hello": {
     "REP": "Hi how can I help you 😊",
     "URL": null
+  },
+  "Hi! කොහොමද උනේ? 😊 \nමට උදව් කරන්න පුළුවන් දේ තියෙනවද?,Hi! 😊 \nඔබට උදව් කළ යුතු දේක් තියෙනවද?,Hi,hy,hey,hello": {
+    "REP": "Helow Kohomada 😊",
+    "URL": null
   }
 }
