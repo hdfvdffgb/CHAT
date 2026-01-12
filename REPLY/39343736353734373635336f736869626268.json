@@ -6,5 +6,9 @@
   "Video ,": {
     "REP": "Auto reply with video✅",
     "URL": "https://files.catbox.moe/on8e2m.mp4"
+  },
+  "Video , mp4": {
+    "REP": "reply with video✅",
+    "URL": "https://files.catbox.moe/on8e2m.mp4"
   }
 }
