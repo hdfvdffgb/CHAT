@@ -10,5 +10,9 @@
   "Image , img": {
     "REP": "Auto reply\nWith imge✅",
     "URL": "https://files.catbox.moe/vtni2a.jpg"
+  },
+  "video ,mp4": {
+    "REP": "Auto Reply\nWith video ✅",
+    "URL": "https://files.catbox.moe/580rnp.mp4"
   }
 }
