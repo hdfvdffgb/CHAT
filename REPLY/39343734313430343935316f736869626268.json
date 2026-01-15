@@ -6,5 +6,9 @@
   "setreply Image , img": {
     "REP": "Auto reply\nwith image✅",
     "URL": "https://files.catbox.moe/vtni2a.jpg"
+  },
+  "Image , img": {
+    "REP": "Auto reply\nWith imge✅",
+    "URL": "https://files.catbox.moe/vtni2a.jpg"
   }
 }
