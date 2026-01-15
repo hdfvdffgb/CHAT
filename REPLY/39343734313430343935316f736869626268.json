@@ -2,5 +2,9 @@
   "setreply Text ,txt": {
     "REP": "Auto reply text✅",
     "URL": null
+  },
+  "setreply Image , img": {
+    "REP": "Auto reply\nwith image✅",
+    "URL": "https://files.catbox.moe/vtni2a.jpg"
   }
 }
