@@ -2,5 +2,9 @@
   "hi": {
     "REP": "hi hi",
     "URL": null
+  },
+  "voice,mp3": {
+    "REP": "senpai",
+    "URL": "https://files.catbox.moe/zqldzu.mp3"
   }
 }
