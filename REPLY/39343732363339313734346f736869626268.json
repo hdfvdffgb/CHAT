@@ -6,5 +6,9 @@
   "text , Hi this is Dasun's bot how can i help you": {
     "REP": "auto reply text ✅️",
     "URL": null
+  },
+  "This is Dasun's bot how can i help you": {
+    "REP": "auto reply text ✅️",
+    "URL": null
   }
 }
