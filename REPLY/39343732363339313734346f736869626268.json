@@ -2,5 +2,9 @@
   "text , txt": {
     "REP": "auto reply text ✅️",
     "URL": null
+  },
+  "text , Hi this is Dasun's bot how can i help you": {
+    "REP": "auto reply text ✅️",
+    "URL": null
   }
 }
