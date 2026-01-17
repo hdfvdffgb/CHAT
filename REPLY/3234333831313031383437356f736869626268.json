@@ -34,5 +34,9 @@
   "age 27 ,": {
     "REP": "Auto Reply age 27 message ✅",
     "URL": null
+  },
+  "what up? ,": {
+    "REP": "Auto Reply what up? message ✅",
+    "URL": null
   }
 }
