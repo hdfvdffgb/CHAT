@@ -10,5 +10,9 @@
   "This is Dasun's bot how can i help you": {
     "REP": "auto reply text ✅️",
     "URL": null
+  },
+  "hy , hello , ado , hi , hellow , sudda , mk": {
+    "REP": "Hy this is Dasun's bot how can i help you",
+    "URL": null
   }
 }
