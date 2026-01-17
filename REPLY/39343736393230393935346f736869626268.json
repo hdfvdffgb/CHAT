@@ -22,5 +22,9 @@
   "Good morning , GM , Gm , gm": {
     "REP": "Good morning ✨",
     "URL": null
+  },
+  "Gn , Good nignt , GN , Good Night": {
+    "REP": "Good night 🌝💫",
+    "URL": null
   }
 }
