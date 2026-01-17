@@ -26,5 +26,9 @@
   "Good evening": {
     "REP": "how are you",
     "URL": null
+  },
+  "setreply Am fine and you": {
+    "REP": "same",
+    "URL": null
   }
 }
