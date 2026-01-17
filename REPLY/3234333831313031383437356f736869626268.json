@@ -14,5 +14,9 @@
   "sticker , stk": {
     "REP": "Auto reply with sticker",
     "URL": "https://files.catbox.moe/mol54l.webp"
+  },
+  "income mag": {
+    "REP": "reply msg",
+    "URL": null
   }
 }
