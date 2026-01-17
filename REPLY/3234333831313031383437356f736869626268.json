@@ -2,5 +2,9 @@
   "lmage , img": {
     "REP": "Auto replay",
     "URL": null
+  },
+  "Vidéo , mp4": {
+    "REP": "Auto Reply with vidéo ✅",
+    "URL": null
   }
 }
