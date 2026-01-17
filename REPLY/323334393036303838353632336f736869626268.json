@@ -14,5 +14,9 @@
   "voice, mp3": {
     "REP": "Auto Reply voice me",
     "URL": "https://files.catbox.moe/5kwi52.mp3"
+  },
+  "sticker, stk": {
+    "REP": "Auto Reply with sticker ✅",
+    "URL": "https://files.catbox.moe/vmlcln.webp"
   }
 }
