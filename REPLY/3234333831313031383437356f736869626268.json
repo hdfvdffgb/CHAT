@@ -42,5 +42,9 @@
   "Text , txt": {
     "REP": "Auto reply text ✅",
     "URL": null
+  },
+  "Hi ,Hello , Hey, Hy,": {
+    "REP": "hey,How can l help you....",
+    "URL": null
   }
 }
