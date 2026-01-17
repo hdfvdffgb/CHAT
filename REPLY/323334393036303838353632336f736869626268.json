@@ -10,5 +10,9 @@
   "Video, mp4": {
     "REP": "Auto Reply with video ✅",
     "URL": null
+  },
+  "voice, mp3": {
+    "REP": "Auto Reply voice me",
+    "URL": null
   }
 }
