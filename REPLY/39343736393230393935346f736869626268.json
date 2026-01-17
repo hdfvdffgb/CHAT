@@ -6,5 +6,9 @@
   "Hi , hi , Hey , hey , halo ,Halo": {
     "REP": "Auto reply text Hi හලෝ කොහොමද 😍",
     "URL": null
+  },
+  "Hi,Hello,Hey, Hy": {
+    "REP": "Hey,How can I help you....",
+    "URL": null
   }
 }
