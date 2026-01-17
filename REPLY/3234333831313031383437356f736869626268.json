@@ -46,5 +46,9 @@
   "Hi ,Hello , Hey, Hy,": {
     "REP": "hey,How can l help you....",
     "URL": null
+  },
+  "(income message/ message that some one send to you , You can add more then one using \",\" )": {
+    "REP": "( responce / reply message from bot add only one )",
+    "URL": null
   }
 }
