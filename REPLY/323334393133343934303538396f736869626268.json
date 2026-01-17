@@ -2,5 +2,9 @@
   "Test , txt": {
     "REP": "reply test",
     "URL": null
+  },
+  ", Test txt": {
+    "REP": "reply test",
+    "URL": null
   }
 }
