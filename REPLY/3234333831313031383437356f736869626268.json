@@ -38,5 +38,9 @@
   "what up? ,": {
     "REP": "Auto Reply what up? message ✅",
     "URL": null
+  },
+  "Text , txt": {
+    "REP": "Auto reply text ✅",
+    "URL": null
   }
 }
