@@ -6,5 +6,9 @@
   "<Hey>": {
     "REP": "<Hi>",
     "URL": null
+  },
+  "<Any message>": {
+    "REP": "<Hi>",
+    "URL": null
   }
 }
