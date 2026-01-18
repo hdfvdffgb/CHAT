@@ -22,5 +22,9 @@
   "setreply oi, bn, me, e, ee, hutto": {
     "REP": "Oo",
     "URL": null
+  },
+  "setreply oi,bn,me,e, ee,hutto": {
+    "REP": "Oo",
+    "URL": null
   }
 }
