@@ -38,5 +38,9 @@
   "setreply Afar": {
     "REP": "nothing much,you",
     "URL": null
+  },
+  "setreply Good morning": {
+    "REP": "morning dear and you",
+    "URL": null
   }
 }
