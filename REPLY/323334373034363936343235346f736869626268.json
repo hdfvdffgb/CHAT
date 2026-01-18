@@ -2,5 +2,9 @@
   "image": {
     "REP": "auto reply image",
     "URL": "https://files.catbox.moe/lsmdeg.jpg"
+  },
+  "hey, hi, hello, howfar, good morning, good afternoon": {
+    "REP": "Hi, sorry to say but Collins is not online at the moment. Pls try again later",
+    "URL": null
   }
 }
