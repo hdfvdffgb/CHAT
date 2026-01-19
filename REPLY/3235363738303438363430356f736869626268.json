@@ -2,5 +2,9 @@
   "<hi>": {
     "REP": "<welcome to PK fumes and hair styling services, geatings my dear>",
     "URL": null
+  },
+  "<hello>": {
+    "REP": "<hi this is pk fumes and hair styling service>",
+    "URL": null
   }
 }
