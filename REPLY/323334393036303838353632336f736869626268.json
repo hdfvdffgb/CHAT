@@ -42,5 +42,9 @@
   "setreply Good morning": {
     "REP": "morning dear and you",
     "URL": null
+  },
+  "setreply Thanks": {
+    "REP": "Your welcome",
+    "URL": null
   }
 }
