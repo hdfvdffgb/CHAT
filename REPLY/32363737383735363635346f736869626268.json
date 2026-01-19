@@ -10,5 +10,9 @@
   "video,mp4": {
     "REP": "Auto reply with video✅",
     "URL": "https://files.catbox.moe/v5a1td.mp4"
+  },
+  "voice,mp3": {
+    "REP": "Auto reply voice message✅",
+    "URL": "https://files.catbox.moe/ructcu.mp3"
   }
 }
