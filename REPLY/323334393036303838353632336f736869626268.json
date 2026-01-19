@@ -46,5 +46,9 @@
   "setreply Thanks": {
     "REP": "Your welcome",
     "URL": null
+  },
+  "Hey what's up?": {
+    "REP": "Yo just chilling, you?\n.setreply Good morning 😴",
+    "URL": null
   }
 }
