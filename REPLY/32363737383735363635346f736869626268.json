@@ -14,5 +14,9 @@
   "voice,mp3": {
     "REP": "Auto reply voice message✅",
     "URL": "https://files.catbox.moe/ructcu.mp3"
+  },
+  "sticker,stk": {
+    "REP": "Autoreply with sticker ✅",
+    "URL": null
   }
 }
