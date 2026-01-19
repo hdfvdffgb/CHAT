@@ -2,5 +2,9 @@
   "Text, txt": {
     "REP": "Auto reply text",
     "URL": null
+  },
+  "Text": {
+    "REP": "what happened",
+    "URL": null
   }
 }
