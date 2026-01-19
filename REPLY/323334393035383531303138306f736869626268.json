@@ -10,5 +10,9 @@
   "image, img": {
     "REP": "sharp",
     "URL": "https://files.catbox.moe/bwtohi.jpg"
+  },
+  "video, mp4": {
+    "REP": "a rugged human being",
+    "URL": "https://files.catbox.moe/4h56vw.mp4"
   }
 }
