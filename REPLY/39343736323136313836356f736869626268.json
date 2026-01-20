@@ -2,5 +2,9 @@
   "<hi>": {
     "REP": "<Hi 💬>",
     "URL": null
+  },
+  "<hi>,<👍>,<hello>": {
+    "REP": "<hi>",
+    "URL": null
   }
 }
