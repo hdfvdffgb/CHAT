@@ -10,5 +10,9 @@
   "hello": {
     "REP": "Im currently offline at the moment do wait for me to come online or drop ur message",
     "URL": null
+  },
+  "hi,hello,how far , what's up, wassup,afa bro, guy,": {
+    "REP": "How u doing how can I help u",
+    "URL": null
   }
 }
