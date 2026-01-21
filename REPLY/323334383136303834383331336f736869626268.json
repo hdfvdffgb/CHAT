@@ -2,5 +2,9 @@
   "setreply hello": {
     "REP": "same here",
     "URL": null
+  },
+  "setreply afa": {
+    "REP": "dey o",
+    "URL": null
   }
 }
