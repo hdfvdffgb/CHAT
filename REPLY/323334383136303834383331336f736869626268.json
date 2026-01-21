@@ -10,5 +10,9 @@
   "setreply how are you doing": {
     "REP": "fine and you",
     "URL": null
+  },
+  "setreply kester": {
+    "REP": "i greet o",
+    "URL": null
   }
 }
