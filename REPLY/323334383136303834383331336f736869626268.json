@@ -14,5 +14,9 @@
   "setreply kester": {
     "REP": "i greet o",
     "URL": null
+  },
+  "setreply ok": {
+    "REP": "👍",
+    "URL": null
   }
 }
