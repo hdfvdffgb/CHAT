@@ -66,5 +66,9 @@
   "Hi,Hello,Hey,Hy,hey": {
     "REP": "Hey! How can I help you? How are you? I’m good, and you? HRU? What are you doing? Where are you from? My name is Tomiyama, age 27. And you?",
     "URL": null
+  },
+  "income msg": {
+    "REP": "reply msg",
+    "URL": null
   }
 }
