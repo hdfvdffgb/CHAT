@@ -2,5 +2,9 @@
   "{my boss is not online}": {
     "REP": "{message later}",
     "URL": null
+  },
+  "setreply {afa}": {
+    "REP": "reply {my boss is not online}",
+    "URL": null
   }
 }
