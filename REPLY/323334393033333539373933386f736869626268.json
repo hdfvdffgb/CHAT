@@ -6,5 +6,9 @@
   "setreply {afa}": {
     "REP": "reply {my boss is not online}",
     "URL": null
+  },
+  "setreply Afa": {
+    "REP": "My boss is not online",
+    "URL": null
   }
 }
