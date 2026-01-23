@@ -2,5 +2,9 @@
   "hi,hru morning,hey,Hy": {
     "REP": "hey user Mr mwamba ain't available at the moment",
     "URL": null
+  },
+  "setreply hi,hey, hello, hy, morning,how are you,I miss you, what, okay": {
+    "REP": "hey hope you good it's just unfortunate that the owner ain't available at the moment",
+    "URL": null
   }
 }
