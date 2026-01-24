@@ -14,5 +14,9 @@
   "hii,hiii,hi,hey,yoo,bro": {
     "REP": "Hello 😊",
     "URL": null
+  },
+  "Whats up,whatsup,whats upp,": {
+    "REP": "Nothing much 😎",
+    "URL": null
   }
 }
