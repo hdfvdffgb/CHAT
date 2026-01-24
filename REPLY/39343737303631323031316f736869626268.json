@@ -2,5 +2,9 @@
   "hi,hello": {
     "REP": "hi",
     "URL": null
+  },
+  "gm,Good morning": {
+    "REP": "Good Morning 😊",
+    "URL": null
   }
 }
