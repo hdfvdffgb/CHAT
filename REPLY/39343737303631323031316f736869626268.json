@@ -6,5 +6,9 @@
   "gm,Good morning": {
     "REP": "Good Morning 😊",
     "URL": null
+  },
+  "gn,Good night": {
+    "REP": "Good Night😊",
+    "URL": null
   }
 }
