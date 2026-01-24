@@ -18,5 +18,9 @@
   "Whats up,whatsup,whats upp,": {
     "REP": "Nothing much 😎",
     "URL": null
+  },
+  "bye,byee,g2g": {
+    "REP": "Bye",
+    "URL": null
   }
 }
