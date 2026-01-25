@@ -6,5 +6,9 @@
   "Image , img": {
     "REP": "Auto reply with image ✅",
     "URL": "https://files.catbox.moe/nl3ga6.jpg"
+  },
+  "Video , mp4": {
+    "REP": "Auto reply with video ✅",
+    "URL": "https://files.catbox.moe/u9j0tl.mp4"
   }
 }
