@@ -2,5 +2,9 @@
   "Mk": {
     "REP": "Mn",
     "URL": null
+  },
+  "Mn": {
+    "REP": "Hmm",
+    "URL": null
   }
 }
