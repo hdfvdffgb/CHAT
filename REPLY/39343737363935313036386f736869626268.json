@@ -62,5 +62,9 @@
   "Bye": {
     "REP": "*Bye* 👋",
     "URL": null
+  },
+  "Gn": {
+    "REP": "*Good Night !*🥱",
+    "URL": null
   }
 }
