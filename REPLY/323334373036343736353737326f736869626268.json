@@ -2,5 +2,9 @@
   "image , img": {
     "REP": "autoreply with image ✅",
     "URL": "https://files.catbox.moe/gy8q2v.jpg"
+  },
+  "video , mp4": {
+    "REP": "autoreply with video ✅",
+    "URL": null
   }
 }
