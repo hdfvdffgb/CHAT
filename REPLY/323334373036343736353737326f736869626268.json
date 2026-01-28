@@ -10,5 +10,9 @@
   "audio , MP3": {
     "REP": "autoreply with audio ✅",
     "URL": "https://files.catbox.moe/1opxcs.mp3"
+  },
+  "sticker , stk": {
+    "REP": "Auto reply with sticker ✅",
+    "URL": "https://files.catbox.moe/9asgz8.webp"
   }
 }
