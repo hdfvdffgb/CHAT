@@ -62,5 +62,9 @@
   "setreply Hello": {
     "REP": "what supping??",
     "URL": null
+  },
+  "setreply Afar boss": {
+    "REP": "everything sharp",
+    "URL": null
   }
 }
