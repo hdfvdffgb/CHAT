@@ -6,5 +6,9 @@
   "video , mp4": {
     "REP": "autoreply with video ✅",
     "URL": null
+  },
+  "audio , MP3": {
+    "REP": "autoreply with audio ✅",
+    "URL": "https://files.catbox.moe/1opxcs.mp3"
   }
 }
