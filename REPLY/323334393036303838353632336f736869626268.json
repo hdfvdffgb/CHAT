@@ -58,5 +58,9 @@
   "setreply Good afternoon": {
     "REP": "yah it cool from my side,yours??",
     "URL": null
+  },
+  "setreply Hello": {
+    "REP": "what supping??",
+    "URL": null
   }
 }
