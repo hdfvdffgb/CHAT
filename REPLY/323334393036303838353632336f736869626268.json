@@ -54,5 +54,9 @@
   "setreply Morning how are you": {
     "REP": "CALM😮‍💨🙌 and you??",
     "URL": null
+  },
+  "setreply Good afternoon": {
+    "REP": "yah it cool from my side,yours??",
+    "URL": null
   }
 }
