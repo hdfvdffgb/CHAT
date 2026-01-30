@@ -10,5 +10,9 @@
   "Hy, Hey, Hello, Hi": {
     "REP": "Hy I'm Makima",
     "URL": null
+  },
+  "hy": {
+    "REP": "hy I'm bot",
+    "URL": null
   }
 }
