@@ -6,5 +6,9 @@
   "setreply hi,hey, hello, hy, morning,how are you,I miss you, what, okay": {
     "REP": "hey hope you good it's just unfortunate that the owner ain't available at the moment",
     "URL": null
+  },
+  "setreply hi, hey,Hy, how are you, morning, you good, Whatsapp,hud,gud n u": {
+    "REP": "your text has been received successfully though the owner ain't available at the moment but we'll surely inform the boss as soon as possible ☺️",
+    "URL": null
   }
 }
