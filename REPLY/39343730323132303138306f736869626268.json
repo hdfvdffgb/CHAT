@@ -2,5 +2,9 @@
   "Text,txt": {
     "REP": "Auto reply✅",
     "URL": null
+  },
+  "setreply message ,msg": {
+    "REP": "Auto reply with message ✅",
+    "URL": null
   }
 }
