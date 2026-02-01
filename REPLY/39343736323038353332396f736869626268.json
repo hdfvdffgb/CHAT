@@ -38,5 +38,9 @@
   "setreply text,Hi": {
     "REP": "auto reply with text ✅",
     "URL": null
+  },
+  "text, txt": {
+    "REP": "auto reply ✅",
+    "URL": null
   }
 }
