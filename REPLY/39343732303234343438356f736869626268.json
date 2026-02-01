@@ -2,5 +2,9 @@
   "Hi": {
     "REP": "Hi",
     "URL": null
+  },
+  "setreply text,txt": {
+    "REP": "auto reply ✅",
+    "URL": null
   }
 }
