@@ -6,5 +6,9 @@
   "setreply text,txt": {
     "REP": "auto reply ✅",
     "URL": null
+  },
+  "setreply text, txt": {
+    "REP": "auto reply ✅",
+    "URL": null
   }
 }
