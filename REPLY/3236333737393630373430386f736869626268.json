@@ -2,5 +2,9 @@
   "<How are you doing today>": {
     "REP": "<am good how>",
     "URL": null
+  },
+  "<Hey>": {
+    "REP": "<hey how are you>",
+    "URL": null
   }
 }
