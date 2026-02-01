@@ -46,5 +46,9 @@
   "setreply sticker,stk": {
     "REP": "auto reply with sticker ✅",
     "URL": "https://files.catbox.moe/p7e9bp.webp"
+  },
+  "setreply text, Mk": {
+    "REP": "auto reply with text ✅",
+    "URL": null
   }
 }
