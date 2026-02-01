@@ -14,5 +14,9 @@
   "setreply Hi": {
     "REP": "Hi",
     "URL": null
+  },
+  "text , txt": {
+    "REP": "auto reply ✅",
+    "URL": null
   }
 }
