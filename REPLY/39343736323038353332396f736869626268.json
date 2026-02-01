@@ -10,5 +10,9 @@
   "text,txt": {
     "REP": "auto reply",
     "URL": null
+  },
+  "setreply Hi": {
+    "REP": "Hi",
+    "URL": null
   }
 }
