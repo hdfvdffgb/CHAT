@@ -62,5 +62,9 @@
   "Hi": {
     "REP": "Hi",
     "URL": null
+  },
+  "setreply text,Mk": {
+    "REP": "Mn",
+    "URL": null
   }
 }
