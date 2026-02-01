@@ -74,5 +74,9 @@
   "How is you, how is you, How's you, how's you, How are you, how are you": {
     "REP": "Am fine less you",
     "URL": null
+  },
+  "Doctor x, Doc x, Dr x": {
+    "REP": "Yooh vipii",
+    "URL": null
   }
 }
