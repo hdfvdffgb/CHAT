@@ -30,5 +30,9 @@
   "setreply Hi,txt": {
     "REP": "Hi text ✅",
     "URL": null
+  },
+  "setreply Hi, txt": {
+    "REP": "Hi with text✅",
+    "URL": null
   }
 }
