@@ -2,5 +2,9 @@
   "text , tet": {
     "REP": "auto reply with text ✅",
     "URL": null
+  },
+  "sticker , stk": {
+    "REP": "auto reply with sticker ✅",
+    "URL": "https://files.catbox.moe/3nicah.webp"
   }
 }
