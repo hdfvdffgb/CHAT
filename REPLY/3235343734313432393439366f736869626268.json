@@ -62,5 +62,9 @@
   "hey, Hey": {
     "REP": "Yes",
     "URL": null
+  },
+  "Good morning, Good Morning, goodmorning, Mrng,mrng": {
+    "REP": "morning too",
+    "URL": null
   }
 }
