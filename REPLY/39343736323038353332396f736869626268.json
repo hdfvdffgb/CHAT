@@ -78,5 +78,9 @@
   "setreply Mk": {
     "REP": "Mk with text reply",
     "URL": null
+  },
+  "Hi,txt": {
+    "REP": "Hi text ✅",
+    "URL": null
   }
 }
