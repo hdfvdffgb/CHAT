@@ -66,5 +66,9 @@
   "setreply text,Mk": {
     "REP": "Mn",
     "URL": null
+  },
+  "Hi, txt": {
+    "REP": "auto reply Hi✅",
+    "URL": null
   }
 }
