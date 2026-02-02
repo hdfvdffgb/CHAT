@@ -2,5 +2,9 @@
   "Setreply < bonjour >": {
     "REP": "< *bonjour comment vous allez* >",
     "URL": null
+  },
+  "Setreply bonjour": {
+    "REP": "*bonjour 🤝 comment vous allez👌 ?*",
+    "URL": null
   }
 }
