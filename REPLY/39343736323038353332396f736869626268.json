@@ -82,5 +82,9 @@
   "Hi,txt": {
     "REP": "Hi",
     "URL": null
+  },
+  "Hi,Hi": {
+    "REP": "Hi",
+    "URL": null
   }
 }
