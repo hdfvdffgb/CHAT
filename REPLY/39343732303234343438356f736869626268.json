@@ -14,5 +14,9 @@
   "setreply Mk": {
     "REP": "Mk",
     "URL": null
+  },
+  "setreply Mk, txt": {
+    "REP": "Mk with text",
+    "URL": null
   }
 }
