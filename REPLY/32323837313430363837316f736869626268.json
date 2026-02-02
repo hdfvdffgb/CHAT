@@ -10,5 +10,9 @@
   "bonjour": {
     "REP": "*bonjour 🤝 comment vous allez👌 ?*",
     "URL": null
+  },
+  "cc": {
+    "REP": "*oui 🤝 comment vous allez👌 ?*",
+    "URL": null
   }
 }
