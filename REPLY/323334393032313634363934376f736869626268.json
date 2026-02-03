@@ -6,5 +6,9 @@
   "Hey": {
     "REP": "what",
     "URL": null
+  },
+  "hi": {
+    "REP": "yo, im offline",
+    "URL": null
   }
 }
