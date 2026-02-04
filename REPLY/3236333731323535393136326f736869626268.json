@@ -2,5 +2,9 @@
   "<Hey>": {
     "REP": "<Hello👋>",
     "URL": null
+  },
+  "setreply <Hi>": {
+    "REP": "<Hello how are you>",
+    "URL": null
   }
 }
