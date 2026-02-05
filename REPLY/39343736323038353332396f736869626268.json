@@ -90,5 +90,9 @@
   "setreply Hi,Hi": {
     "REP": "Hi",
     "URL": null
+  },
+  "setreply Gm": {
+    "REP": "Good Morning 🌄",
+    "URL": null
   }
 }
