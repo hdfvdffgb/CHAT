@@ -106,5 +106,9 @@
   "setreply text,Bs": {
     "REP": "Bs",
     "URL": null
+  },
+  "setreply text,Hm": {
+    "REP": "Hm 🙂‍↔️",
+    "URL": null
   }
 }
