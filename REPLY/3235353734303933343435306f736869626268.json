@@ -22,5 +22,9 @@
   "hey your welcome what u need": {
     "REP": "oky tell me",
     "URL": null
+  },
+  "video. Mp4": {
+    "REP": "Auto reply with video ✅",
+    "URL": "https://files.catbox.moe/xwc0q0.mp4"
   }
 }
