@@ -114,5 +114,9 @@
   "setreply text,👍": {
     "REP": "👍",
     "URL": null
+  },
+  "setreply text,😅": {
+    "REP": "😅",
+    "URL": null
   }
 }
