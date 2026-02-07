@@ -98,5 +98,9 @@
   "setreply text,Gm": {
     "REP": "Good Morning 🌄",
     "URL": null
+  },
+  "setreply text,Gn": {
+    "REP": "Good Night 🌉",
+    "URL": null
   }
 }
