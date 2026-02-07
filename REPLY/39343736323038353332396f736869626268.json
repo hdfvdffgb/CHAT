@@ -122,5 +122,9 @@
   "setreply text,Bye": {
     "REP": "Bye 👋",
     "URL": null
+  },
+  "setreply text,Mmm": {
+    "REP": "Mmm",
+    "URL": null
   }
 }
