@@ -130,5 +130,9 @@
   "setreply text,Thanx": {
     "REP": "Ela👍",
     "URL": null
+  },
+  "setreply text,Thanks": {
+    "REP": "Welcome 🤗",
+    "URL": null
   }
 }
