@@ -126,5 +126,9 @@
   "setreply text,Mmm": {
     "REP": "Mmm",
     "URL": null
+  },
+  "setreply text,Thanx": {
+    "REP": "Ela👍",
+    "URL": null
   }
 }
