@@ -110,5 +110,9 @@
   "setreply text,Hm": {
     "REP": "Hm 🙂‍↔️",
     "URL": null
+  },
+  "setreply text,👍": {
+    "REP": "👍",
+    "URL": null
   }
 }
