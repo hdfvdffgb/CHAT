@@ -14,5 +14,9 @@
   "<ue>": {
     "REP": "<me>",
     "URL": null
+  },
+  "<oz>": {
+    "REP": "<ozH>",
+    "URL": null
   }
 }
