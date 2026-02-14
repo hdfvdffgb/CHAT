@@ -10,5 +10,9 @@
   "<hlw>": {
     "REP": "<Helw>",
     "URL": null
+  },
+  "<ue>": {
+    "REP": "<me>",
+    "URL": null
   }
 }
