@@ -6,5 +6,9 @@
   "<hi>": {
     "REP": "<Helw>",
     "URL": null
+  },
+  "<hlw>": {
+    "REP": "<Helw>",
+    "URL": null
   }
 }
