@@ -2,5 +2,9 @@
   "<hello>": {
     "REP": "<hi>",
     "URL": null
+  },
+  "<hi>": {
+    "REP": "<hello>",
+    "URL": null
   }
 }
