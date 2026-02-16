@@ -6,5 +6,9 @@
   "<hi>": {
     "REP": "<hello>",
     "URL": null
+  },
+  "<how're you?>": {
+    "REP": "<I am doing quite well 😊 nd u?>",
+    "URL": null
   }
 }
