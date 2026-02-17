@@ -46,5 +46,9 @@
   "Image, img": {
     "REP": "Auto reply with image",
     "URL": "https://files.catbox.moe/owmsru.jpg"
+  },
+  "TG": {
+    "REP": "Always",
+    "URL": null
   }
 }
