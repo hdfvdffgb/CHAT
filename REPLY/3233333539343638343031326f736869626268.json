@@ -38,5 +38,9 @@
   "hello": {
     "REP": "Howfar",
     "URL": null
+  },
+  "image, img": {
+    "REP": "auto reply with ✅",
+    "URL": "https://files.catbox.moe/owmsru.jpg"
   }
 }
