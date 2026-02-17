@@ -18,5 +18,9 @@
   "How are you doing": {
     "REP": "Am fine and you",
     "URL": null
+  },
+  "how are you": {
+    "REP": "Am fine and you",
+    "URL": null
   }
 }
