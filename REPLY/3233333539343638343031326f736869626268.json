@@ -34,5 +34,9 @@
   "setreply hello": {
     "REP": "Howfar",
     "URL": null
+  },
+  "hello": {
+    "REP": "Howfar",
+    "URL": null
   }
 }
