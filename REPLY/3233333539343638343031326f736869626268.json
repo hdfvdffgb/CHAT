@@ -50,5 +50,9 @@
   "TG": {
     "REP": "Always",
     "URL": null
+  },
+  "Adey": {
+    "REP": "TG",
+    "URL": null
   }
 }
