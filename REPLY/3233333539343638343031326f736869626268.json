@@ -2,5 +2,9 @@
   "Text, txt": {
     "REP": "auto reply text ✅",
     "URL": null
+  },
+  "image,img": {
+    "REP": "auto reply image ✅",
+    "URL": null
   }
 }
