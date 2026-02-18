@@ -14,5 +14,9 @@
   "Setreply voice.mp3": {
     "REP": "Auto reply voice message✅",
     "URL": "https://files.catbox.moe/z9j2mk.mp3"
+  },
+  "setreply sticker.stk": {
+    "REP": "Auto Reply with sticker✅",
+    "URL": "https://files.catbox.moe/bx7za3.webp"
   }
 }
