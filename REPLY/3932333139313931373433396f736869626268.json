@@ -2,5 +2,9 @@
   "Text , text Unavalabel": {
     "REP": "waiting",
     "URL": null
+  },
+  "Text , text": {
+    "REP": "auto reply text ✅",
+    "URL": null
   }
 }
