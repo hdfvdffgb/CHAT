@@ -10,5 +10,9 @@
   "video, mp4": {
     "REP": "Auto reply with video ✅",
     "URL": "https://files.catbox.moe/1qszb5.mp4"
+  },
+  "sticker, stk": {
+    "REP": "Auto reply with sticker ✅",
+    "URL": "https://files.catbox.moe/skeln2.webp"
   }
 }
