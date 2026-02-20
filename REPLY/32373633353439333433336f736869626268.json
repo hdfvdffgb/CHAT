@@ -2,5 +2,9 @@
   "hi,hello,Hy": {
     "REP": "hey,how can I help you",
     "URL": null
+  },
+  "sticker,St,": {
+    "REP": "tk",
+    "URL": "https://files.catbox.moe/di5412.webp"
   }
 }
