@@ -18,5 +18,9 @@
   "<Good morning>": {
     "REP": "<Good morning 🙂!>",
     "URL": null
+  },
+  "<sup>": {
+    "REP": "<Calm you>",
+    "URL": null
   }
 }
