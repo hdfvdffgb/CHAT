@@ -2,5 +2,9 @@
   "Hi Link to Link,txt": {
     "REP": "Send your link",
     "URL": null
+  },
+  "Hi": {
+    "REP": "Hi, How are you",
+    "URL": null
   }
 }
