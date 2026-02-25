@@ -10,5 +10,9 @@
   "setreply Video,MP4": {
     "REP": "Auto reply with video✅",
     "URL": null
+  },
+  "setreply voice ,mp3": {
+    "REP": "Auto reply voice message ✅",
+    "URL": "https://files.catbox.moe/snvt1h.mp3"
   }
 }
