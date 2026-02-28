@@ -6,5 +6,9 @@
   "Hi , Hello , hi , hello": {
     "REP": "not online I will chat u if I am online",
     "URL": null
+  },
+  "Image , img": {
+    "REP": "Auto reply with image",
+    "URL": null
   }
 }
