@@ -6,5 +6,9 @@
   "<hello thank you for contacting vadict_nova we are sorry but my boss is not around thank you for understanding>": {
     "REP": "<have a nice day>",
     "URL": null
+  },
+  "<hey>": {
+    "REP": "<My name is vadict_bot. And am here to assist you my boss is currently unavailable thank you for understanding >",
+    "URL": null
   }
 }
