@@ -6,5 +6,9 @@
   "video,mp4": {
     "REP": "Auto Reply with video ✅",
     "URL": null
+  },
+  "download music,videos": {
+    "REP": "mp4",
+    "URL": null
   }
 }
