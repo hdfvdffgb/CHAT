@@ -2,5 +2,9 @@
   "text, text": {
     "REP": "autoreply text with text",
     "URL": "https://files.catbox.moe/d6ru8d.jpeg"
+  },
+  "Setreply": {
+    "REP": "msg",
+    "URL": null
   }
 }
