@@ -6,5 +6,9 @@
   "Setreply": {
     "REP": "msg",
     "URL": null
+  },
+  "msg": {
+    "REP": "autoreply msg",
+    "URL": null
   }
 }
