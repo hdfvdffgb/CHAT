@@ -10,5 +10,9 @@
   "download music,videos": {
     "REP": "clips",
     "URL": null
+  },
+  "download games, applications": {
+    "REP": "movies",
+    "URL": null
   }
 }
