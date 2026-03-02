@@ -6,5 +6,9 @@
   "setreply message ,msg": {
     "REP": "Auto reply with message ✅",
     "URL": null
+  },
+  "setreply <My boss busy>": {
+    "REP": "<online awama masej ekak dai>",
+    "URL": null
   }
 }
