@@ -2,5 +2,9 @@
   "<hi>": {
     "REP": "<Welcome>",
     "URL": null
+  },
+  "<income msg>": {
+    "REP": "<Welcome>",
+    "URL": null
   }
 }
