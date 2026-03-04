@@ -2,5 +2,9 @@
   "setreply Image, img": {
     "REP": "autoreply with image ✅",
     "URL": "https://files.catbox.moe/itfjij.jpg"
+  },
+  "Video, mp4": {
+    "REP": "Auto Reply with video",
+    "URL": "https://files.catbox.moe/sf7pl6.mp4"
   }
 }
