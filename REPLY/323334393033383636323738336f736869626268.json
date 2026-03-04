@@ -82,5 +82,9 @@
   "good": {
     "REP": "fine",
     "URL": null
+  },
+  "hmm": {
+    "REP": "hmmm",
+    "URL": null
   }
 }
