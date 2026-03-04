@@ -14,5 +14,9 @@
   "good evening": {
     "REP": "evening",
     "URL": null
+  },
+  "how far": {
+    "REP": "I'm good",
+    "URL": null
   }
 }
