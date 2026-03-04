@@ -50,5 +50,9 @@
   "okay": {
     "REP": "okay",
     "URL": null
+  },
+  "bye": {
+    "REP": "bye",
+    "URL": null
   }
 }
