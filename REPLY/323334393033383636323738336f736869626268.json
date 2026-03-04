@@ -2,5 +2,9 @@
   "hi or good morning": {
     "REP": "morning",
     "URL": null
+  },
+  "how are you doing or how are you?": {
+    "REP": "fyn",
+    "URL": null
   }
 }
