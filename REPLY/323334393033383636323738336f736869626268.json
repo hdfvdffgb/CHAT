@@ -10,5 +10,9 @@
   "good afternoon": {
     "REP": "afternoon",
     "URL": null
+  },
+  "good evening": {
+    "REP": "evening",
+    "URL": null
   }
 }
