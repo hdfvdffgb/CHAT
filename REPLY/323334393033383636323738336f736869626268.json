@@ -118,5 +118,9 @@
   "bby": {
     "REP": "yes",
     "URL": null
+  },
+  "and you": {
+    "REP": "same",
+    "URL": null
   }
 }
