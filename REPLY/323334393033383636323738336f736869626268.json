@@ -6,5 +6,9 @@
   "how are you doing or how are you?": {
     "REP": "fyn",
     "URL": null
+  },
+  "good afternoon": {
+    "REP": "afternoon",
+    "URL": null
   }
 }
