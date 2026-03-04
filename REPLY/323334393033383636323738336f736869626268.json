@@ -38,5 +38,9 @@
   "send me your pictures or pics": {
     "REP": "not now",
     "URL": null
+  },
+  "how are you": {
+    "REP": "fine",
+    "URL": null
   }
 }
