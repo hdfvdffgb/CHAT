@@ -2,5 +2,9 @@
   "<hi>": {
     "REP": "<hi>",
     "URL": null
+  },
+  "<Good morning>": {
+    "REP": "<Goodmorningdear, how are you doing>",
+    "URL": null
   }
 }
