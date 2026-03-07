@@ -2,5 +2,9 @@
   "hey , hi": {
     "REP": "normal",
     "URL": null
+  },
+  "hafa send me that video , I need that video": {
+    "REP": "okay",
+    "URL": "https://files.catbox.moe/ost7ax.mp4"
   }
 }
