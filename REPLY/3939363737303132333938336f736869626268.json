@@ -6,5 +6,9 @@
   "sticker, stk": {
     "REP": "Auto reply with sticker",
     "URL": "https://files.catbox.moe/6c6bpi.webp"
+  },
+  "Video, mp4": {
+    "REP": "Auto Reply with video",
+    "URL": "https://files.catbox.moe/p7x3ki.mp4"
   }
 }
