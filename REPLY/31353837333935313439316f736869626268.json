@@ -14,5 +14,9 @@
   "sticker, stk": {
     "REP": "Auto reply with sticker",
     "URL": "https://files.catbox.moe/qg262b.webp"
+  },
+  "sticker,": {
+    "REP": "",
+    "URL": "https://files.catbox.moe/iay1es.webp"
   }
 }
