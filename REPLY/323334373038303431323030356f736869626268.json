@@ -2,5 +2,9 @@
   "setreply Tagall": {
     "REP": "_For my owners only_",
     "URL": null
+  },
+  "setreply .": {
+    "REP": "_Go and bath then try again_",
+    "URL": null
   }
 }
