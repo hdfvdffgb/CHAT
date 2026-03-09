@@ -22,5 +22,9 @@
   "auto reply texts,messages": {
     "REP": "notes",
     "URL": null
+  },
+  "<income msg>": {
+    "REP": "<reply msg>",
+    "URL": null
   }
 }
