@@ -26,5 +26,9 @@
   "<income msg>": {
     "REP": "<reply msg>",
     "URL": null
+  },
+  "Text, txt": {
+    "REP": "Auto reply text✅",
+    "URL": null
   }
 }
