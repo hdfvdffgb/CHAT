@@ -34,5 +34,9 @@
   "image, img": {
     "REP": "Auto reply with image✅",
     "URL": "https://files.catbox.moe/dhc9bx.jpg"
+  },
+  "sticker, stk": {
+    "REP": "Auto reply with sticker",
+    "URL": "https://files.catbox.moe/rf0ixz.webp"
   }
 }
