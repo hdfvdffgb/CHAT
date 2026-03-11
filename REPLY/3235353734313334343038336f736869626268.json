@@ -42,5 +42,9 @@
   "download music, mp4": {
     "REP": "mp3 audio",
     "URL": null
+  },
+  "download music, videos": {
+    "REP": "mp4",
+    "URL": null
   }
 }
