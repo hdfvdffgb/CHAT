@@ -14,5 +14,9 @@
   "<income msg>": {
     "REP": "<reply msg>",
     "URL": null
+  },
+  "<hello>": {
+    "REP": "<nambie>",
+    "URL": null
   }
 }
