@@ -10,5 +10,9 @@
   "msg": {
     "REP": "autoreply msg",
     "URL": null
+  },
+  "<income msg>": {
+    "REP": "<reply msg>",
+    "URL": null
   }
 }
