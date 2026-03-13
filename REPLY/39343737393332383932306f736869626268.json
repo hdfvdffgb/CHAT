@@ -30,5 +30,9 @@
   "image , img": {
     "REP": "auto reply with image✅",
     "URL": "https://files.catbox.moe/asf32b.jpg"
+  },
+  "hellow": {
+    "REP": "auto reply hy ✅",
+    "URL": null
   }
 }
