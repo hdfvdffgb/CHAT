@@ -2,5 +2,9 @@
   "setreply *THANK YOU FOR YOUR MESSAGE": {
     "REP": "*PFIVE WILL REPLY YOU SOON.*",
     "URL": null
+  },
+  "setreply autoreply": {
+    "REP": "*THANK YOU FOR YOUR MESSAGE. PFIVE WILL REPLY YOU SOON.*",
+    "URL": null
   }
 }
