@@ -18,5 +18,9 @@
   "<mk >": {
     "REP": "< mn. mk >",
     "URL": null
+  },
+  "text , txt": {
+    "REP": "auto reply text ✅",
+    "URL": null
   }
 }
