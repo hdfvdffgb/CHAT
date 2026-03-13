@@ -2,5 +2,9 @@
   "Hi": {
     "REP": "Hi thank you for contacting Mk2 keyboardist how can i help you",
     "URL": null
+  },
+  "morning": {
+    "REP": "morning how are you",
+    "URL": null
   }
 }
