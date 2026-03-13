@@ -22,5 +22,9 @@
   "text , txt": {
     "REP": "auto reply text ✅",
     "URL": null
+  },
+  "masseg , msg": {
+    "REP": "auto reply with massege",
+    "URL": null
   }
 }
