@@ -6,5 +6,9 @@
   "morning": {
     "REP": "morning how are you",
     "URL": null
+  },
+  "oky": {
+    "REP": "yaap👍",
+    "URL": null
   }
 }
