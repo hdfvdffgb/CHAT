@@ -6,5 +6,9 @@
   "setreply autoreply": {
     "REP": "*THANK YOU FOR YOUR MESSAGE. PFIVE WILL REPLY YOU SOON.*",
     "URL": null
+  },
+  "setreply incoming messages": {
+    "REP": "*PFIVE OFFICIAL IS CURRENTLY OFFLINE , YOU WILL GET A DM FROM HIM SOON ❤️✨*",
+    "URL": null
   }
 }
