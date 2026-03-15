@@ -1,8 +1,4 @@
 {
-  "Hi": {
-    "REP": "hello",
-    "URL": null
-  },
   ".setreply Hi": {
     "REP": "*Hello කොහොමද මොකක්ද මගෙන් වෙන්න ඕනේ 🤗❤️‍🩹*",
     "URL": null
