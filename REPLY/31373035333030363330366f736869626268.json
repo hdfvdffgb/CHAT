@@ -6,5 +6,9 @@
   "thanks": {
     "REP": "welcome",
     "URL": null
+  },
+  "hi": {
+    "REP": "hi",
+    "URL": null
   }
 }
