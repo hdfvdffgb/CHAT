@@ -2,5 +2,9 @@
   "Setreply hi": {
     "REP": "hello how are you doing im the security so before you talk to my boss please tell me what you you want",
     "URL": null
+  },
+  "Setreply <income msg hi>": {
+    "REP": "<reply msg hello how are you doing >",
+    "URL": null
   }
 }
