@@ -10,5 +10,9 @@
   "hi": {
     "REP": "hi",
     "URL": null
+  },
+  "hello": {
+    "REP": "hello",
+    "URL": null
   }
 }
