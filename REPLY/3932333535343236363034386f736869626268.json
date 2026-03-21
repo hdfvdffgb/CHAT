@@ -10,5 +10,9 @@
   "hi": {
     "REP": "g",
     "URL": null
+  },
+  ".": {
+    "REP": "What is this",
+    "URL": null
   }
 }
