@@ -6,5 +6,9 @@
   "Setreply <income msg hi>": {
     "REP": "<reply msg hello how are you doing >",
     "URL": null
+  },
+  "Setreply <income msg Hi, Hy,Hello, Hey": {
+    "REP": "How can I help?",
+    "URL": null
   }
 }
