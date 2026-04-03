@@ -6,5 +6,9 @@
   "<income msg>": {
     "REP": "<Welcome>",
     "URL": null
+  },
+  "Hi,Hy,Hello,Hey": {
+    "REP": "Hey, How I can I help you ?",
+    "URL": null
   }
 }
