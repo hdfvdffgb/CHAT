@@ -6,5 +6,9 @@
   "image , img": {
     "REP": "Auto rply with image ✅",
     "URL": "https://files.catbox.moe/gaigar.jpg"
+  },
+  "sticker , stk": {
+    "REP": "Auto reply with sticker ✅",
+    "URL": "https://files.catbox.moe/n3tcpa.webp"
   }
 }
