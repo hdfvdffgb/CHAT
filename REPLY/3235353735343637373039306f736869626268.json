@@ -2,5 +2,9 @@
   "hola": {
     "REP": "Mi agos",
     "URL": null
+  },
+  "*": {
+    "REP": "Thank you for contacting me .But am very busy",
+    "URL": null
   }
 }
