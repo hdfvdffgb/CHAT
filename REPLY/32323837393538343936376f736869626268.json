@@ -2,5 +2,9 @@
   "salut,cc,bonsoir,bonjour,bjr,bsr": {
     "REP": "cc , comment ça va ?",
     "URL": null
+  },
+  "comment ça va ?": {
+    "REP": "ça va bien",
+    "URL": "https://files.catbox.moe/4ej104.jpg"
   }
 }
