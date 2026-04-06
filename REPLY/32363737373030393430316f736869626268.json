@@ -2,5 +2,9 @@
   "<Ola>": {
     "REP": "<Dren>",
     "URL": null
+  },
+  "income msg": {
+    "REP": "reply msg\n\n.setreply Hi,Hy,Hello,Hey",
+    "URL": null
   }
 }
