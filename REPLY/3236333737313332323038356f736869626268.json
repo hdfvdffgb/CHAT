@@ -2,5 +2,9 @@
   "setreply income msg": {
     "REP": "reply msg",
     "URL": null
+  },
+  "hi,hy,hello,hey": {
+    "REP": "hey,how can i help you?",
+    "URL": null
   }
 }
