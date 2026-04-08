@@ -6,5 +6,9 @@
   "setreply سلام": {
     "REP": "علیک سلام",
     "URL": null
+  },
+  "setreply علیک سلام": {
+    "REP": "سلام",
+    "URL": null
   }
 }
