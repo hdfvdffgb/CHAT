@@ -26,5 +26,9 @@
   "hi": {
     "REP": "hi",
     "URL": null
+  },
+  "good morning": {
+    "REP": "gm",
+    "URL": null
   }
 }
