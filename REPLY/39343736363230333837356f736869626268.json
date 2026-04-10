@@ -34,5 +34,9 @@
   "hi,hy,gm,good morning,mk,gn,good night": {
     "REP": "hi,hy,*Good morning* 💗,*Good morning *💕, mukuth nee,*Good night* ✨,*Good night* ✨",
     "URL": null
+  },
+  "setreply hi,hy,gm,hello": {
+    "REP": "𝓱𝔂",
+    "URL": null
   }
 }
