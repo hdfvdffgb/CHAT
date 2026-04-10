@@ -18,5 +18,9 @@
   "sticker , stk": {
     "REP": "auto reply with sticker",
     "URL": "https://files.catbox.moe/c4td4y.webp"
+  },
+  "setreply <hi>": {
+    "REP": "<hi>",
+    "URL": null
   }
 }
