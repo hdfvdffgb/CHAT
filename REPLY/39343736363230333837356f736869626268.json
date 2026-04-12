@@ -38,5 +38,9 @@
   "setreply hi,hy,gm,hello": {
     "REP": "𝓱𝔂",
     "URL": null
+  },
+  "hi,mk,gm": {
+    "REP": "hi💖",
+    "URL": null
   }
 }
