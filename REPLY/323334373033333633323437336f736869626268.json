@@ -10,5 +10,9 @@
   "good evening": {
     "REP": "Good evening how was your day",
     "URL": null
+  },
+  "hi": {
+    "REP": "hello",
+    "URL": null
   }
 }
