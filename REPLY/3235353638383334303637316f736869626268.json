@@ -2,5 +2,9 @@
   "hey": {
     "REP": "how can i help you",
     "URL": null
+  },
+  "hi,oi,niaje,mjuba hello": {
+    "REP": "kama kawa",
+    "URL": null
   }
 }
