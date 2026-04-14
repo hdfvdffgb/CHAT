@@ -2,5 +2,9 @@
   "setreply text , txt": {
     "REP": "Auto reply with text✅",
     "URL": null
+  },
+  "سلام": {
+    "REP": "سلام خوب استی",
+    "URL": null
   }
 }
