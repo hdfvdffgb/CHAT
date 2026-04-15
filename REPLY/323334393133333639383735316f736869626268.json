@@ -26,5 +26,9 @@
   "good morning": {
     "REP": "morning dear",
     "URL": null
+  },
+  "how are you": {
+    "REP": "am good and u ?",
+    "URL": null
   }
 }
