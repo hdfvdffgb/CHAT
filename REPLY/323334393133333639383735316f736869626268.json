@@ -6,5 +6,9 @@
   "image , img": {
     "REP": "Auto reply image ☑️",
     "URL": null
+  },
+  "image, img": {
+    "REP": "Auto reply image ☑️",
+    "URL": null
   }
 }
