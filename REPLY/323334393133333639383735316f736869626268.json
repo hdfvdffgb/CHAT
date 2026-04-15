@@ -22,5 +22,9 @@
   "sticker , stk": {
     "REP": "Auto reply with sticker ✅️",
     "URL": null
+  },
+  "good morning": {
+    "REP": "morning dear",
+    "URL": null
   }
 }
