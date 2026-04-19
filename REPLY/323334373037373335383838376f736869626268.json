@@ -14,5 +14,9 @@
   "Sticker, img": {
     "REP": "Auto reply with sticker",
     "URL": null
+  },
+  "voice, mp3": {
+    "REP": "Auto reply with voice message ✅",
+    "URL": null
   }
 }
