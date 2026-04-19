@@ -10,5 +10,9 @@
   "sticker , stk": {
     "REP": "Auto reply with sticker ✅",
     "URL": "https://files.catbox.moe/n3tcpa.webp"
+  },
+  "Text , txt ,": {
+    "REP": "Auto reply text ✅",
+    "URL": null
   }
 }
