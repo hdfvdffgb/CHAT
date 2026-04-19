@@ -22,5 +22,9 @@
   "Voice , mp3": {
     "REP": "Auto reply voice message ✅",
     "URL": null
+  },
+  "Sticker , stick": {
+    "REP": "Auto reply with sticker ✅",
+    "URL": null
   }
 }
