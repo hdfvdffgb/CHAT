@@ -2,5 +2,9 @@
   "Hey,.pair": {
     "REP": "Phantom didn't allow that ?",
     "URL": null
+  },
+  "hey ,.pair": {
+    "REP": "⚠️ You must be an Admin!",
+    "URL": null
   }
 }
