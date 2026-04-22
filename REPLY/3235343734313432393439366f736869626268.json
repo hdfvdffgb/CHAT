@@ -190,5 +190,9 @@
   "Offer": {
     "REP": "Thanks for Contacting us. \nwhich offer do you wish to buy for other number?.\nplease reply with number e.g 1,2,3\n\n1. 20bob = 250 mbs valid 24 hours\n\n2. 50bob = 1.5GB valid for 3 hours\n\n3. 55bob = 1.25GB valid until midnight\n\n4. 99 bob = 1GB valid 24 hrs\n\n5. 19 bob = 1GB valid for 1HR\n\n6. 52 bob = 1.3 GB valid for 3 hours\n\n7. 110 = 2GB valid 24hours\n \n8. 21 bob = 350 flex valid 2 hours\n\n9. bob = 50 minutes until midnight",
     "URL": null
+  },
+  "Ukoje": {
+    "REP": "Niko fitty sana and You???",
+    "URL": null
   }
 }
