@@ -6,5 +6,9 @@
   "hi,oi,niaje,mjuba hello": {
     "REP": "kama kawa",
     "URL": null
+  },
+  "hi": {
+    "REP": "how can i help you",
+    "URL": null
   }
 }
