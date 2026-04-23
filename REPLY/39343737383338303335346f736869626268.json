@@ -6,5 +6,9 @@
   "video, vid": {
     "REP": "auto reply with video",
     "URL": null
+  },
+  "video,mp4": {
+    "REP": "auto reply with video",
+    "URL": null
   }
 }
