@@ -2,5 +2,9 @@
   "text,txt": {
     "REP": "auto reply text",
     "URL": null
+  },
+  "video, vid": {
+    "REP": "auto reply with video",
+    "URL": null
   }
 }
