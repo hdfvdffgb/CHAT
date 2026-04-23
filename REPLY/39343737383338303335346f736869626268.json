@@ -18,5 +18,9 @@
   "voice, mp3": {
     "REP": "auto reply voice message ✅",
     "URL": null
+  },
+  "sickter , stk": {
+    "REP": "auto reply with sickter",
+    "URL": null
   }
 }
