@@ -2,5 +2,9 @@
   "Text , txt": {
     "REP": "Auto reply text",
     "URL": null
+  },
+  "voice, voice": {
+    "REP": "auto reply voice",
+    "URL": null
   }
 }
