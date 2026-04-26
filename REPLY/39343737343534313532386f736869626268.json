@@ -14,5 +14,9 @@
   "voice , mp3": {
     "REP": "auto voice massege ✅",
     "URL": null
+  },
+  "sticker , stk": {
+    "REP": "auto reply with sticker",
+    "URL": null
   }
 }
