@@ -2,5 +2,9 @@
   "@This group was mentioned": {
     "REP": "📢 WARNING⚠ 🫵",
     "URL": null
+  },
+  "@This group was mentioned.": {
+    "REP": "@user WARNING⚠ 🫵",
+    "URL": null
   }
 }
