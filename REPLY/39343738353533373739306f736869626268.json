@@ -2,5 +2,9 @@
   "txet , txt": {
     "REP": "Auto replay txet",
     "URL": null
+  },
+  "image , img": {
+    "REP": "Auto replay with image",
+    "URL": null
   }
 }
