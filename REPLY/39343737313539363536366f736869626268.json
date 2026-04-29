@@ -26,5 +26,9 @@
   "Hy , hello , hi , mk txt": {
     "REP": "auto reply text ✅",
     "URL": null
+  },
+  "image , img": {
+    "REP": "Auto reply with image ✅",
+    "URL": null
   }
 }
