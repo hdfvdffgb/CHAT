@@ -30,5 +30,9 @@
   "image , img": {
     "REP": "Auto reply with image ✅",
     "URL": null
+  },
+  "mp3": {
+    "REP": "auto reply with mp3",
+    "URL": null
   }
 }
