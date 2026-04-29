@@ -54,5 +54,9 @@
   "hy,mk": {
     "REP": "reply with image✅",
     "URL": null
+  },
+  "hy,mk,ado": {
+    "REP": "reply with mp3 voice",
+    "URL": null
   }
 }
