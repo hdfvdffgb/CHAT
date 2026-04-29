@@ -34,5 +34,9 @@
   "mp3": {
     "REP": "auto reply with mp3",
     "URL": null
+  },
+  "mp3, hy": {
+    "REP": "Hy ado mk",
+    "URL": null
   }
 }
