@@ -18,5 +18,9 @@
   "sticker": {
     "REP": "stk Auto reply with sticker ✅",
     "URL": null
+  },
+  "Hi. Hy.Hello,Hey": {
+    "REP": "Hey, How Ican i help you ?",
+    "URL": null
   }
 }
