@@ -58,5 +58,9 @@
   "hy,mk,ado": {
     "REP": "reply with mp3 voice",
     "URL": null
+  },
+  "mk,hy,ado,hello,hi,": {
+    "REP": "𝘩𝘺 𝘩𝘺...𝘮𝘬𝘶𝘵𝘩 𝘯𝘦 𝘪𝘵𝘩𝘪𝘯 𝘪𝘯𝘯𝘸 𝘰𝘩𝘦 𝘢𝘯𝘦 😙🪄",
+    "URL": null
   }
 }
