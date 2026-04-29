@@ -50,5 +50,9 @@
   "img": {
     "REP": "reply text with image",
     "URL": null
+  },
+  "hy,mk": {
+    "REP": "reply with img",
+    "URL": null
   }
 }
