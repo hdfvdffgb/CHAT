@@ -6,5 +6,9 @@
   "Text,text": {
     "REP": "Auto reply use this <sup>",
     "URL": null
+  },
+  "Image,img": {
+    "REP": "Auto reply with image✅",
+    "URL": null
   }
 }
