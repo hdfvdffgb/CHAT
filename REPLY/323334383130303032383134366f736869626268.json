@@ -42,5 +42,9 @@
   "good u?, am good, am okay": {
     "REP": "cool",
     "URL": null
+  },
+  "good u, am good, am okay": {
+    "REP": "cool",
+    "URL": null
   }
 }
