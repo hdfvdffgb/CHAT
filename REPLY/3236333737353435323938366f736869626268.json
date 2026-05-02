@@ -2,5 +2,9 @@
   "income msg": {
     "REP": "reply msg\n\n.setreply Hi,Hy,Hello,Hey",
     "URL": null
+  },
+  "income message": {
+    "REP": "reply msg\n.setreply How are you doing today",
+    "URL": null
   }
 }
