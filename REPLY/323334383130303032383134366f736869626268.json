@@ -10,5 +10,9 @@
   "wyd, Wyd": {
     "REP": "Not really sure, this is Illustration's bot. Replies are limited.",
     "URL": null
+  },
+  "hi, Hi, hello, Hello": {
+    "REP": "Sup",
+    "URL": null
   }
 }
