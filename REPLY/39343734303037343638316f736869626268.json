@@ -22,5 +22,9 @@
   "Text ,txt": {
     "REP": "Auto reply text ✅",
     "URL": null
+  },
+  "hi,hy,hello": {
+    "REP": "hey ,කොහොමද මොකො කරන්නෙ",
+    "URL": null
   }
 }
