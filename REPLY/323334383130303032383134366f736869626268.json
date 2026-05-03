@@ -14,5 +14,9 @@
   "hi, Hi, hello, Hello": {
     "REP": "Sup",
     "URL": null
+  },
+  "Afa, afa, watsgud, Watsgud,watsup, Watsup, wassup, Wassup": {
+    "REP": "Am chill",
+    "URL": null
   }
 }
