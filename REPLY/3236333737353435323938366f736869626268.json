@@ -6,5 +6,9 @@
   "income message": {
     "REP": "reply msg\n.set image,IMG as image ✅",
     "URL": null
+  },
+  "Text ,txt": {
+    "REP": "Auto reply text ✅",
+    "URL": null
   }
 }
