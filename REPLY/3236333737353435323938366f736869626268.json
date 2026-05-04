@@ -14,5 +14,9 @@
   "image ,img": {
     "REP": "Auto reply with image✅",
     "URL": null
+  },
+  "Video ,mp4": {
+    "REP": "Auto Reply with Video✅",
+    "URL": null
   }
 }
