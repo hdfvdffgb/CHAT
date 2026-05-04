@@ -22,5 +22,9 @@
   "sticker ,stk": {
     "REP": "auto reply with sticker ✅",
     "URL": null
+  },
+  "audio ,mp3": {
+    "REP": "auto reply with audio✅",
+    "URL": null
   }
 }
