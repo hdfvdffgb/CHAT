@@ -6,5 +6,9 @@
   "Hi,Hello,Hey, Hy, howfar, bro good morning": {
     "REP": "Hey,How can I help you, good morning",
     "URL": null
+  },
+  "Hi,Hello,Hey, Hy, howfar, bro, good morning": {
+    "REP": "Hey,How can I help you, good morning",
+    "URL": null
   }
 }
