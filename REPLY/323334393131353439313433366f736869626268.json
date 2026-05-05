@@ -22,5 +22,9 @@
   "good morning": {
     "REP": "morning lol u wake up today?",
     "URL": null
+  },
+  "good night": {
+    "REP": "bye bye we no need u here nh shoo",
+    "URL": null
   }
 }
