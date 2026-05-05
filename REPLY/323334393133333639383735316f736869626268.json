@@ -50,5 +50,9 @@
   "okay , Alright": {
     "REP": "Alright , okay",
     "URL": null
+  },
+  "good evening": {
+    "REP": "evening",
+    "URL": null
   }
 }
