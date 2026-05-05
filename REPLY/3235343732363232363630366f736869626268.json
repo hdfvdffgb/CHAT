@@ -14,5 +14,9 @@
   "Text, txt": {
     "REP": "Auto reply text",
     "URL": null
+  },
+  "Hey , Hae , Hi ,Hallo , Hello ,": {
+    "REP": "Mambo",
+    "URL": null
   }
 }
