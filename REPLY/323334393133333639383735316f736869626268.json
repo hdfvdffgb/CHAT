@@ -54,5 +54,9 @@
   "good evening": {
     "REP": "evening",
     "URL": null
+  },
+  "wassup": {
+    "REP": "you good ?",
+    "URL": null
   }
 }
