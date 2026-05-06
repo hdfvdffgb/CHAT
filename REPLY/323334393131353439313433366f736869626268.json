@@ -62,5 +62,9 @@
   "Good evening": {
     "REP": "evening welcome back how was Ur dey ge",
     "URL": null
+  },
+  "Good night guys": {
+    "REP": "goodnight 😉 sleep well",
+    "URL": null
   }
 }
