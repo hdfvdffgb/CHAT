@@ -82,5 +82,9 @@
   "good": {
     "REP": "great",
     "URL": null
+  },
+  "yes": {
+    "REP": "what is yes that you are saying",
+    "URL": null
   }
 }
