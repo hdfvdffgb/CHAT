@@ -78,5 +78,9 @@
   "good night": {
     "REP": "have a nice dream",
     "URL": null
+  },
+  "good": {
+    "REP": "great",
+    "URL": null
   }
 }
