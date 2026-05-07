@@ -86,5 +86,9 @@
   "yes": {
     "REP": "what is yes that you are saying",
     "URL": null
+  },
+  "hello": {
+    "REP": "wassup",
+    "URL": null
   }
 }
