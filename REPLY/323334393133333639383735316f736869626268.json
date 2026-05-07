@@ -90,5 +90,9 @@
   "hello": {
     "REP": "wassup",
     "URL": null
+  },
+  "good afternoon guys": {
+    "REP": "what is good about this afternoon? Just tell me one thing that is good about this afternoon",
+    "URL": null
   }
 }
