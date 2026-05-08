@@ -2,5 +2,9 @@
   "image img": {
     "REP": "auto reply with image ✅",
     "URL": null
+  },
+  "voice mp3": {
+    "REP": "auto reply voice message",
+    "URL": null
   }
 }
