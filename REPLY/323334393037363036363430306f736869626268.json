@@ -14,5 +14,9 @@
   "income msg Yo": {
     "REP": "reply msg Wagwan",
     "URL": null
+  },
+  "income msg Nothing": {
+    "REP": "reply msg Concern u Idrgaf 🙃",
+    "URL": null
   }
 }
