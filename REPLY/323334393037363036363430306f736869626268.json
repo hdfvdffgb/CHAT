@@ -10,5 +10,9 @@
   "income msg how are u": {
     "REP": "reply msg am good u",
     "URL": null
+  },
+  "income msg Yo": {
+    "REP": "reply msg Wagwan",
+    "URL": null
   }
 }
