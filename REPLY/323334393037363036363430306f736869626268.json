@@ -18,5 +18,9 @@
   "income msg Nothing": {
     "REP": "reply msg Concern u Idrgaf 🙃",
     "URL": null
+  },
+  "income msg .": {
+    "REP": "reply msg 🙃",
+    "URL": null
   }
 }
