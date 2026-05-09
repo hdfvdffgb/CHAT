@@ -6,5 +6,9 @@
   "income msg hi": {
     "REP": "reply msg hola",
     "URL": null
+  },
+  "income msg how are u": {
+    "REP": "reply msg am good u",
+    "URL": null
   }
 }
