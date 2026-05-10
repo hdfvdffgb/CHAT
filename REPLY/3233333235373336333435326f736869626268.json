@@ -6,5 +6,9 @@
   "Hi, Hello,Hey": {
     "REP": "Hello",
     "URL": null
+  },
+  "Hi": {
+    "REP": "Hello",
+    "URL": null
   }
 }
