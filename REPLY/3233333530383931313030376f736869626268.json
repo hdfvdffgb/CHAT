@@ -6,5 +6,9 @@
   "Text, hello": {
     "REP": "🤗👋",
     "URL": null
+  },
+  "Hi, good morning, hello, what's up, how far": {
+    "REP": "Hello 👋 how are you doing",
+    "URL": null
   }
 }
