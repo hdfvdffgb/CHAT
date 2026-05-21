@@ -2,5 +2,9 @@
   "Text, txt": {
     "REP": "1. Open Gemini / Grok / GPT Image 2.0\n2. Upload your photo\n3. Copy the prompt\n4. Generate\n\n6 amazing prompts give below 👇",
     "URL": null
+  },
+  "Text, hello": {
+    "REP": "🤗👋",
+    "URL": null
   }
 }
