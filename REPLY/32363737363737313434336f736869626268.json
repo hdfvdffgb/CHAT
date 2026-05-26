@@ -6,5 +6,9 @@
   "setreply image,img": {
     "REP": "Auto reply with image ✅",
     "URL": null
+  },
+  "setreply income msg": {
+    "REP": "reply msg✅",
+    "URL": null
   }
 }
