@@ -2,5 +2,9 @@
   "Hie,Hello,Madii guys,morning guys,hey guys,madii": {
     "REP": "how are you doing",
     "URL": null
+  },
+  "hi,hie,Hi,Hello,Hie,he's,how are you": {
+    "REP": "hello I'm gud n u",
+    "URL": null
   }
 }
