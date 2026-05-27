@@ -10,5 +10,9 @@
   "hey": {
     "REP": "who b hey",
     "URL": null
+  },
+  "hey, hi, hello, wassup": {
+    "REP": "user no dey now chat am later!!",
+    "URL": null
   }
 }
