@@ -218,5 +218,9 @@
   "Hi": {
     "REP": "Hi too",
     "URL": null
+  },
+  "How ws your night?, How was your night": {
+    "REP": "fabulous and yours?",
+    "URL": null
   }
 }
