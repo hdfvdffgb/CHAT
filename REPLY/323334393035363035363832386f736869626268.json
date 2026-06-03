@@ -2,5 +2,9 @@
   "Hi,Hy,Hello,Hey": {
     "REP": "Hey, How can I help you?",
     "URL": null
+  },
+  "Hi,Hello,Hey,Hy": {
+    "REP": "Hey! How can I help you?\n.setreply Good morning,GM",
+    "URL": null
   }
 }
