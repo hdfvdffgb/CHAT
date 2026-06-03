@@ -10,5 +10,9 @@
   "image, img": {
     "REP": "Auto reply with image ✅",
     "URL": null
+  },
+  "mk": {
+    "REP": "mn bn mk ?",
+    "URL": null
   }
 }
