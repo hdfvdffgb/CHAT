@@ -1,8 +1,4 @@
 {
-  "Hi,Hello,Hey,Hy": {
-    "REP": "Hey! How can I help you?\n.setreply Good morning,GM",
-    "URL": null
-  },
   "How are you,How r u": {
     "REP": "I’m good! How about you?\n.setreply What’s up",
     "URL": null
