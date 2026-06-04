@@ -6,5 +6,9 @@
   "hi": {
     "REP": "Welcome to my inbox.\n\nHere we offer:\n• Bot deployment\n• Status viewers addition\n• VPN files\n• Other services\n\nIf interested, reply with 1",
     "URL": null
+  },
+  "Text , txt": {
+    "REP": "Welcome to my inbox.\n\nHere we offer:\n• Bot deployment\n• Status viewers addition\n• VPN files\n• Other services\n\nIf interested, reply with the service you need.",
+    "URL": null
   }
 }
