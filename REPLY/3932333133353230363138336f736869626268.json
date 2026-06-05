@@ -10,5 +10,9 @@
   "picture,png": {
     "REP": "auto reply with video",
     "URL": null
+  },
+  "Picture , image": {
+    "REP": "picture image",
+    "URL": null
   }
 }
