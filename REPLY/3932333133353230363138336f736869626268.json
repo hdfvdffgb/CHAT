@@ -2,5 +2,9 @@
   "Hi,Hy,Hello,Hey": {
     "REP": "Hey, How I can I help you ?",
     "URL": null
+  },
+  "image,png": {
+    "REP": "Auto Reply with image ✅",
+    "URL": null
   }
 }
