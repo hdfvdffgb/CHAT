@@ -6,5 +6,9 @@
   "image,png": {
     "REP": "Auto Reply with image ✅",
     "URL": null
+  },
+  "picture,png": {
+    "REP": "auto reply with video",
+    "URL": null
   }
 }
