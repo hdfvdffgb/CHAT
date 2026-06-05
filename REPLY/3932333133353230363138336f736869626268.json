@@ -14,5 +14,9 @@
   "Picture , image": {
     "REP": "picture image",
     "URL": null
+  },
+  "Image , img": {
+    "REP": "Auto Reply with image",
+    "URL": null
   }
 }
