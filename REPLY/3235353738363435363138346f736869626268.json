@@ -2,5 +2,9 @@
   "text, txt": {
     "REP": "Auto replay text✅",
     "URL": null
+  },
+  "video, mp4": {
+    "REP": "Auto reply✅",
+    "URL": null
   }
 }
