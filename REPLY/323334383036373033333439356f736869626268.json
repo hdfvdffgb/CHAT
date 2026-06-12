@@ -6,5 +6,9 @@
   "hello": {
     "REP": "wagwan",
     "URL": null
+  },
+  "hi": {
+    "REP": "wassup",
+    "URL": null
   }
 }
