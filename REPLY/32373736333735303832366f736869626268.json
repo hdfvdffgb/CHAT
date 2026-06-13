@@ -2,5 +2,9 @@
   "message msg": {
     "REP": "reply msg",
     "URL": null
+  },
+  "stickers stk": {
+    "REP": "reply stk",
+    "URL": null
   }
 }
