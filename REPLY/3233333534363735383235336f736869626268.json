@@ -14,5 +14,9 @@
   "Image, img": {
     "REP": "Auto-reply with video✅",
     "URL": null
+  },
+  "income msg hi": {
+    "REP": "reply msg hello",
+    "URL": null
   }
 }
