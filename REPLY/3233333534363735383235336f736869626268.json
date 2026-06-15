@@ -18,5 +18,9 @@
   "income msg hi": {
     "REP": "reply msg hello",
     "URL": null
+  },
+  "video,mp4": {
+    "REP": "autoreply",
+    "URL": null
   }
 }
