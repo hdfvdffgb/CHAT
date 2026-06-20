@@ -18,5 +18,9 @@
   "alright": {
     "REP": "sharp",
     "URL": null
+  },
+  "good morning": {
+    "REP": "morning \n\nYou good?",
+    "URL": null
   }
 }
