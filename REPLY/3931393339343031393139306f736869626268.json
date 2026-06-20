@@ -2,5 +2,9 @@
   "Setreply text , txt": {
     "REP": "autoreply text",
     "URL": null
+  },
+  "Image , img": {
+    "REP": "auto reply with image ✅",
+    "URL": null
   }
 }
