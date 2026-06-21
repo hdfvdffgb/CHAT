@@ -14,5 +14,9 @@
   "admin": {
     "REP": "Contact admin here",
     "URL": null
+  },
+  "Hey": {
+    "REP": "Hey, How can I help you?",
+    "URL": null
   }
 }
