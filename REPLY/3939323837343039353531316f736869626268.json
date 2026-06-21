@@ -18,5 +18,9 @@
   "Hey": {
     "REP": "Hey, How can I help you?",
     "URL": null
+  },
+  "salom": {
+    "REP": "valaykum asalom",
+    "URL": null
   }
 }
