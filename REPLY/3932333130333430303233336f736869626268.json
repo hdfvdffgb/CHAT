@@ -14,5 +14,9 @@
   "Video, mp4": {
     "REP": "Auto Reply with video",
     "URL": null
+  },
+  "sticker, stk": {
+    "REP": "Auto reply with sticker",
+    "URL": null
   }
 }
