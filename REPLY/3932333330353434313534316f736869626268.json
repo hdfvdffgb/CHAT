@@ -6,5 +6,9 @@
   "Hi, Hello": {
     "REP": "Auto reply ji Sar kya mat kar sakta hoo main aapki",
     "URL": null
+  },
+  "Image, img": {
+    "REP": "Auto reply with image ✔",
+    "URL": null
   }
 }
