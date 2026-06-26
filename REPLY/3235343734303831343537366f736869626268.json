@@ -2,5 +2,9 @@
   "hi,hey, hello,hy": {
     "REP": "mambo , Tee will reply as soon as possible",
     "URL": null
+  },
+  "hi,hey, hello,hy, mambo,yooh": {
+    "REP": "Thank you for contacting Tee........",
+    "URL": null
   }
 }
