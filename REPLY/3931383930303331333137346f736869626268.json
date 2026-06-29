@@ -2,5 +2,9 @@
   "setreply Hi, Hey, Oi, Hello": {
     "REP": "Bol",
     "URL": null
+  },
+  "Hi,Hy,Hello,Hey": {
+    "REP": "Hey, How I can I help you ? Bolo",
+    "URL": null
   }
 }
