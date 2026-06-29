@@ -6,5 +6,9 @@
   "lmage , img": {
     "REP": "Auto reply with image ✅",
     "URL": null
+  },
+  "video , mp4": {
+    "REP": "Auto Reply with video ✅",
+    "URL": null
   }
 }
