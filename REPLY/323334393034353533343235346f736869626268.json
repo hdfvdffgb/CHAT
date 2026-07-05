@@ -6,5 +6,9 @@
   "text, txt": {
     "REP": "Auto reply with text ✅",
     "URL": null
+  },
+  "image, img": {
+    "REP": "Auto reply with image ✅",
+    "URL": null
   }
 }
