@@ -62,5 +62,9 @@
   "Bye,Good bye,Gihin ennam": {
     "REP": "Goodbye! Have a great day ahead. Ayeth mathak unoth kiyanna!",
     "URL": null
+  },
+  "Help,Udawwak,Support": {
+    "REP": "Sure! Tell me what you need assistance with. Mama innawa oyata udaw karanna.",
+    "URL": null
   }
 }
