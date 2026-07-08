@@ -90,5 +90,9 @@
   "Talk to a human,Connect to an agent,Speak with staff,I want to talk to someone,Call me,Human agent,Mata kenek ekka katha karanna ona,Call ekak ganna puluwanda,Mage number eka gannako,කෙනෙක් එක්ක කතා කරන්න ඕනේ": {
     "REP": "Sure. If you prefer to speak with one of our team members directly, please leave your contact number and your query here. Our team will get back to you shortly.",
     "URL": null
+  },
+  "Price,Prices,Rates,How much,Gana kiyada,Price list eka ewanna,Cost eka kohomada,ගණන් කොහොමද,මිල ගණන් කියන්න": {
+    "REP": "We offer customized pricing based on your requirements. Could you please specify which service or package you are inquiring about? I can then provide the correct details.",
+    "URL": null
   }
 }
