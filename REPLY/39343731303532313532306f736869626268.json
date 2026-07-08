@@ -82,5 +82,9 @@
   "Who are you,What is your name,Who am I talking to,Kawda oya,Oyage nama mokakda,Nama mokakda,Ka ekkadar me katha karanne,කවුද ඔයා,ඔයාගේ නම මොකක්ද": {
     "REP": "I am Moon Provider, the official digital assistant for our businesses. I am here to guide you with any information you need.",
     "URL": null
+  },
+  "Help,I need help,Can you help me,Udawwak ona,Mata udawwak karanna puluwanda,Help ekak ona,මට උදව්වක් ඕනේ,උදව් කරන්න පුළුවන්ද": {
+    "REP": "Certainly! I would be glad to assist you. Please let me know what you need help with, and I will guide you right away.",
+    "URL": null
   }
 }
