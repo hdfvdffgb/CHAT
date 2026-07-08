@@ -150,5 +150,9 @@
   "Payment method,How to pay,Bank details danna,Account details,Salli gewanne kohomada,Account number eka ewanna,Bank account,සල්ලි ගෙවන්නේ කොහොමද": {
     "REP": "We accept bank transfers and popular online payment methods. Please let us know which service you are paying for, we will send you the formal invoice along with our verified bank details.",
     "URL": null
+  },
+  "Advance,Advance payment,Advance kiyada,Advance ගෙවන්න ඕනෙද": {
+    "REP": "Yes, usually we require a standard advance payment before commencing official projects to secure your slot. The remaining balance can be settled upon completion.",
+    "URL": null
   }
 }
