@@ -146,5 +146,9 @@
   "Not working,Error,System error,Meka weda karanne na,Weda na,Wada naha,Prashnayak,වැඩ කරන්නේ නෑ": {
     "REP": "We apologize for the inconvenience. Could you please send a screenshot of the error or describe what happened? This will help us fix the issue for you right away.",
     "URL": null
+  },
+  "Payment method,How to pay,Bank details danna,Account details,Salli gewanne kohomada,Account number eka ewanna,Bank account,සල්ලි ගෙවන්නේ කොහොමද": {
+    "REP": "We accept bank transfers and popular online payment methods. Please let us know which service you are paying for, we will send you the formal invoice along with our verified bank details.",
+    "URL": null
   }
 }
