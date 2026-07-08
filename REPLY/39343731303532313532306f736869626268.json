@@ -66,5 +66,9 @@
   "Help,Udawwak,Support": {
     "REP": "Sure! Tell me what you need assistance with. Mama innawa oyata udaw karanna.",
     "URL": null
+  },
+  "Human,Agent,Talk to person,Staff": {
+    "REP": "If you want to talk to a human agent, please leave your message and contact number. Our team will contact you soon. Mage team eke kenekta katha karanna ona nam massage ekak text karala thiyanna.",
+    "URL": null
   }
 }
