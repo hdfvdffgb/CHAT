@@ -98,5 +98,9 @@
   "Where are you located,Location,Where is your office,Address,Kohede thiyenne,Location eka ewanna,Office eka koheda,කොහෙද තියෙන්නේ": {
     "REP": "Our main operations are based in Kadawatha, Gampaha. However, we provide digital services entirely online. May I know how we can help you today?",
     "URL": null
+  },
+  "Thank you,Thanks,Thank you so much,Sthuthi,Bohoma sthuthi,Thanks mchn,ස්තූතියි,බොහොම ස්තූතියි": {
+    "REP": "You are very welcome! It is our pleasure to assist you. If you have any other questions, feel free to ask. Have a wonderful day! ✨️",
+    "URL": null
   }
 }
