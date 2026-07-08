@@ -70,5 +70,9 @@
   "Human,Agent,Talk to person,Staff": {
     "REP": "If you want to talk to a human agent, please leave your message and contact number. Our team will contact you soon. Mage team eke kenekta katha karanna ona nam massage ekak text karala thiyanna.",
     "URL": null
+  },
+  "Drag Drop Studio,Drag drop,Design studio": {
+    "REP": "Drag Drop Studio offers premium digital solutions and designs, Poddak kiyanna, oyata logo, graphics natham website design ekakda ona?",
+    "URL": null
   }
 }
