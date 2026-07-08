@@ -126,5 +126,9 @@
   "SlotQik,Slot qik,Booking,Book a slot,Slot ekak ona,Booking system eka wada naha,Book කරන්නේ කොහොමද": {
     "REP": "Welcome to SlotQik. We make managing and booking slots effortless. Are you looking to secure a slot today, are you experiencing an issue with an existing booking?",
     "URL": null
+  },
+  "Cancel booking,Change slot,Reschedule,Slot eka wenas karanna ona,Slot cancel,බුකින් එක වෙනස් කරන්න": {
+    "REP": "To cancel or reschedule your slot on SlotQik, please provide your Booking ID along with the preferred changes. We will process your request as soon as possible.",
+    "URL": null
   }
 }
