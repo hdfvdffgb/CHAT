@@ -118,5 +118,9 @@
   "Hivve,Hivve support,About Hivve,Hivve app,Hivve kiyanne mokakda,හිට්ව්": {
     "REP": "Welcome to Hivve Support. Please let us know if you are facing any technical difficulties or if you need general information regarding the platform. We are here to assist you.",
     "URL": null
+  },
+  "Login issue,Cannot login,Account creation,Register,Log wenna ba,Account ekak hadanne kohomada,Saler kenek widiyata register wenne kohomada, Register wenne kohomada,Register wenna one,ලොග් වෙන්න බෑ": {
+    "REP": "If you are experiencing issues with logging in or creating your account on Hivve, please share the specific error or message you are receiving. Our technical team will assist you shortly.",
+    "URL": null
   }
 }
