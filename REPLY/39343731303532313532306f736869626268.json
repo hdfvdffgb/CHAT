@@ -78,5 +78,9 @@
   "*,Sorry,Not sure": {
     "REP": "I didn't quite catch that. Could you please rephrase or ask again?, Eka mata ththerune ne. Poddak pahadiliwa kiyanna puluwanda?",
     "URL": null
+  },
+  "Who are you,What is your name,Who am I talking to,Kawda oya,Oyage nama mokakda,Nama mokakda,Ka ekkadar me katha karanne,කවුද ඔයා,ඔයාගේ නම මොකක්ද": {
+    "REP": "I am Moon Provider, the official digital assistant for our businesses. I am here to guide you with any information you need.",
+    "URL": null
   }
 }
