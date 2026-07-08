@@ -130,5 +130,9 @@
   "Cancel booking,Change slot,Reschedule,Slot eka wenas karanna ona,Slot cancel,බුකින් එක වෙනස් කරන්න": {
     "REP": "To cancel or reschedule your slot on SlotQik, please provide your Booking ID along with the preferred changes. We will process your request as soon as possible.",
     "URL": null
+  },
+  "Job ekak thiyenawa,Wadak karaganna ona,I have a project,I want to order,Mata wedak thiyenawa,වැඩක් කරගන්න ඕනේ,Oyalage services monawada": {
+    "REP": "We would love to handle your project. Please share the details of the work you need done, our professional team from Hivve Store or relevant sector will guide you.",
+    "URL": null
   }
 }
