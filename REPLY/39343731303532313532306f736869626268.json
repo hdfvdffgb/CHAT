@@ -122,5 +122,9 @@
   "Login issue,Cannot login,Account creation,Register,Log wenna ba,Account ekak hadanne kohomada,Saler kenek widiyata register wenne kohomada, Register wenne kohomada,Register wenna one,ලොග් වෙන්න බෑ": {
     "REP": "If you are experiencing issues with logging in or creating your account on Hivve, please share the specific error or message you are receiving. Our technical team will assist you shortly.",
     "URL": null
+  },
+  "SlotQik,Slot qik,Booking,Book a slot,Slot ekak ona,Booking system eka wada naha,Book කරන්නේ කොහොමද": {
+    "REP": "Welcome to SlotQik. We make managing and booking slots effortless. Are you looking to secure a slot today, are you experiencing an issue with an existing booking?",
+    "URL": null
   }
 }
