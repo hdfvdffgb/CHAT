@@ -94,5 +94,9 @@
   "Price,Prices,Rates,How much,Gana kiyada,Price list eka ewanna,Cost eka kohomada,ගණන් කොහොමද,මිල ගණන් කියන්න": {
     "REP": "We offer customized pricing based on your requirements. Could you please specify which service or package you are inquiring about? I can then provide the correct details.",
     "URL": null
+  },
+  "Where are you located,Location,Where is your office,Address,Kohede thiyenne,Location eka ewanna,Office eka koheda,කොහෙද තියෙන්නේ": {
+    "REP": "Our main operations are based in Kadawatha, Gampaha. However, we provide digital services entirely online. May I know how we can help you today?",
+    "URL": null
   }
 }
