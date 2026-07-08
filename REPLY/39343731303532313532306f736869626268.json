@@ -142,5 +142,9 @@
   "Urgent,Urgent help,Meka hadisiyak,Awasya udawwak,Hadissi help ekak,හදිසියක්,Urgent support": {
     "REP": "We understand the urgency. Please state your issue clearly or drop your contact number. We are alerting our technical support team right now to attend to your request immediately.",
     "URL": null
+  },
+  "Not working,Error,System error,Meka weda karanne na,Weda na,Wada naha,Prashnayak,වැඩ කරන්නේ නෑ": {
+    "REP": "We apologize for the inconvenience. Could you please send a screenshot of the error or describe what happened? This will help us fix the issue for you right away.",
+    "URL": null
   }
 }
