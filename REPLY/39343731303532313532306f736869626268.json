@@ -138,5 +138,9 @@
   "Contact details,How to contact,Phone number,Call number,Oyalawa contact karanne kohomada,Number eka ewanna,Phone no,දුරකථන අංකය": {
     "REP": "You can leave your phone number and email address right here, along with a brief message. A representative from our team will contact you directly via phone or WhatsApp very soon.",
     "URL": null
+  },
+  "Urgent,Urgent help,Meka hadisiyak,Awasya udawwak,Hadissi help ekak,හදිසියක්,Urgent support": {
+    "REP": "We understand the urgency. Please state your issue clearly or drop your contact number. We are alerting our technical support team right now to attend to your request immediately.",
+    "URL": null
   }
 }
