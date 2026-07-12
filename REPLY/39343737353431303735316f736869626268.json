@@ -14,5 +14,9 @@
   "voice , mp3": {
     "REP": "Auto reply voice message ❄️",
     "URL": null
+  },
+  "stiker , stk": {
+    "REP": "Auto reply with stiker ❄️",
+    "URL": null
   }
 }
