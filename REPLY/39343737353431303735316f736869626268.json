@@ -10,5 +10,9 @@
   "setreply video , mp4": {
     "REP": "Auto Reply with video ❄️",
     "URL": null
+  },
+  "voice , mp3": {
+    "REP": "Auto reply voice message ❄️",
+    "URL": null
   }
 }
