@@ -38,5 +38,9 @@
   "Hi": {
     "REP": "Hi2",
     "URL": null
+  },
+  "hi": {
+    "REP": "hi2",
+    "URL": null
   }
 }
