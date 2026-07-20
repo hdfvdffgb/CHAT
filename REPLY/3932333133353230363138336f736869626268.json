@@ -42,5 +42,9 @@
   "hi": {
     "REP": "hi2",
     "URL": null
+  },
+  "😂": {
+    "REP": "😂",
+    "URL": null
   }
 }
