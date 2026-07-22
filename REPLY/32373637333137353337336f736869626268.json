@@ -6,5 +6,9 @@
   "<mm>": {
     "REP": "<hey>",
     "URL": null
+  },
+  "setreply hey": {
+    "REP": "Jane",
+    "URL": null
   }
 }
