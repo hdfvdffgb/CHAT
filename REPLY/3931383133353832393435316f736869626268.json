@@ -2,5 +2,9 @@
   "Text . text": {
     "REP": "Auto reply to text ✅",
     "URL": null
+  },
+  "setreply lmage.": {
+    "REP": "Auto reply with image ✅",
+    "URL": null
   }
 }
