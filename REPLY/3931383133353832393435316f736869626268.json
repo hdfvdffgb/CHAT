@@ -6,5 +6,9 @@
   "setreply lmage.": {
     "REP": "Auto reply with image ✅",
     "URL": null
+  },
+  "Video. mp4": {
+    "REP": "Auto reply with video ✅",
+    "URL": null
   }
 }
