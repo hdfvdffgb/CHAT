@@ -6,5 +6,9 @@
   "setreply image, img": {
     "REP": "Auto reply with image ✅",
     "URL": null
+  },
+  "setreply Video, mp4": {
+    "REP": "Auto reply video ✅",
+    "URL": null
   }
 }
