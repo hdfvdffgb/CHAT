@@ -18,5 +18,9 @@
   "setreply sticker, stk": {
     "REP": "Auto reply with sticker ✅",
     "URL": null
+  },
+  "setreply hy": {
+    "REP": "hi",
+    "URL": null
   }
 }
