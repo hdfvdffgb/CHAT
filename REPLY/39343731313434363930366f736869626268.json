@@ -18,5 +18,9 @@
   "hi, hello, hey": {
     "REP": "Hello",
     "URL": null
+  },
+  "Mk": {
+    "REP": "Mn",
+    "URL": null
   }
 }
