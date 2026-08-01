@@ -26,5 +26,9 @@
   "Gm, good morning": {
     "REP": "Good Morning",
     "URL": null
+  },
+  "gn, Good night": {
+    "REP": "Good night",
+    "URL": null
   }
 }
