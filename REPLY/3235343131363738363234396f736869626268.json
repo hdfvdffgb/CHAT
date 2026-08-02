@@ -14,5 +14,9 @@
   "Hello": {
     "REP": "thanks for texting uji my owner is not available",
     "URL": null
+  },
+  "hi,hello,hey,Hi,Hey,Hello,Oe,Oi,oi": {
+    "REP": "my owner is not available at this moment please try again later",
+    "URL": null
   }
 }
