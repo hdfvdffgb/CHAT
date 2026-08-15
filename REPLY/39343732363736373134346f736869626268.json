@@ -6,5 +6,9 @@
   "Hi , hi": {
     "REP": "Hi owner will respond 🔜",
     "URL": null
+  },
+  "hi,Hi": {
+    "REP": "Hi He will reply as soon as possible 😁",
+    "URL": null
   }
 }
