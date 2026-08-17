@@ -2,5 +2,9 @@
   "income msg": {
     "REP": "reply msg",
     "URL": null
+  },
+  "Mk, MK, mk, mK": {
+    "REP": "mn",
+    "URL": null
   }
 }
