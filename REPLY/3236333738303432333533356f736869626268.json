@@ -2,5 +2,9 @@
   "hy": {
     "REP": "hello",
     "URL": null
+  },
+  "Hy": {
+    "REP": "hello",
+    "URL": null
   }
 }
