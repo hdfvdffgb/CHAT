@@ -2,5 +2,9 @@
   "Setreply GREETINGS": {
     "REP": "FROM *DRILL DISCIPLES*",
     "URL": null
+  },
+  "Setreply Hey": {
+    "REP": "GREETINGS FROM *DRILL DISCIPLES*",
+    "URL": null
   }
 }
