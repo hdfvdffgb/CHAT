@@ -10,5 +10,9 @@
   "Mambo,mambo,Vipi,vipi,Habari,habari,Niaje,niaje": {
     "REP": "Poa sana! Karibu, nikusaidie nini leo?",
     "URL": null
+  },
+  "Hi,hi,HI,Hello,hello,HELLO,Hey,hey,HEY,Oi,oi,OI,Mambo,mambo,MAMBO": {
+    "REP": "Thanks for contacting EMMANUEL! Please tell me, how can I help you?",
+    "URL": null
   }
 }
