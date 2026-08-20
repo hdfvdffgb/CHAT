@@ -6,5 +6,9 @@
   "Hi,hi,HI,Hello,hello": {
     "REP": "Hello! How can I help you?",
     "URL": null
+  },
+  "Mambo,mambo,Vipi,vipi,Habari,habari,Niaje,niaje": {
+    "REP": "Poa sana! Karibu, nikusaidie nini leo?",
+    "URL": null
   }
 }
