@@ -10,5 +10,9 @@
   "Mk , mk": {
     "REP": "nikn inno",
     "URL": null
+  },
+  "Video , mp4": {
+    "REP": "auto reply with video",
+    "URL": null
   }
 }
