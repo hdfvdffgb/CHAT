@@ -2,5 +2,9 @@
   "Hi,Hy,Hello,Hey": {
     "REP": "Hey, How can I help you?",
     "URL": null
+  },
+  "سلام,درود,سلام خوبی": {
+    "REP": "سلام! 👋 چطور می‌تونم کمکت کنم؟",
+    "URL": null
   }
 }
